@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Chapter 4\Twitter\Twitter\bin\Debug\net8.0\Twitter.exe
+C:\Users\lweber\source\repos\Chapter 4\Twitter\Twitter\bin\Debug\net8.0\Twitter.deps.json
+C:\Users\lweber\source\repos\Chapter 4\Twitter\Twitter\bin\Debug\net8.0\Twitter.runtimeconfig.json
+C:\Users\lweber\source\repos\Chapter 4\Twitter\Twitter\bin\Debug\net8.0\Twitter.dll
+C:\Users\lweber\source\repos\Chapter 4\Twitter\Twitter\bin\Debug\net8.0\Twitter.pdb
+C:\Users\lweber\source\repos\Chapter 4\Twitter\Twitter\obj\Debug\net8.0\Twitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Chapter 4\Twitter\Twitter\obj\Debug\net8.0\Twitter.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Chapter 4\Twitter\Twitter\obj\Debug\net8.0\Twitter.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Chapter 4\Twitter\Twitter\obj\Debug\net8.0\Twitter.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Chapter 4\Twitter\Twitter\obj\Debug\net8.0\Twitter.dll
+C:\Users\lweber\source\repos\Chapter 4\Twitter\Twitter\obj\Debug\net8.0\refint\Twitter.dll
+C:\Users\lweber\source\repos\Chapter 4\Twitter\Twitter\obj\Debug\net8.0\Twitter.pdb
+C:\Users\lweber\source\repos\Chapter 4\Twitter\Twitter\obj\Debug\net8.0\Twitter.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Chapter 4\Twitter\Twitter\obj\Debug\net8.0\ref\Twitter.dll
