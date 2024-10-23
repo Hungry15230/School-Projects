@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\CheckMonth2\CheckMonth2\bin\Debug\net8.0\CheckMonth2.exe
+C:\Users\lweber\source\repos\CheckMonth2\CheckMonth2\bin\Debug\net8.0\CheckMonth2.deps.json
+C:\Users\lweber\source\repos\CheckMonth2\CheckMonth2\bin\Debug\net8.0\CheckMonth2.runtimeconfig.json
+C:\Users\lweber\source\repos\CheckMonth2\CheckMonth2\bin\Debug\net8.0\CheckMonth2.dll
+C:\Users\lweber\source\repos\CheckMonth2\CheckMonth2\bin\Debug\net8.0\CheckMonth2.pdb
+C:\Users\lweber\source\repos\CheckMonth2\CheckMonth2\obj\Debug\net8.0\CheckMonth2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\CheckMonth2\CheckMonth2\obj\Debug\net8.0\CheckMonth2.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\CheckMonth2\CheckMonth2\obj\Debug\net8.0\CheckMonth2.AssemblyInfo.cs
+C:\Users\lweber\source\repos\CheckMonth2\CheckMonth2\obj\Debug\net8.0\CheckMonth2.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\CheckMonth2\CheckMonth2\obj\Debug\net8.0\CheckMonth2.dll
+C:\Users\lweber\source\repos\CheckMonth2\CheckMonth2\obj\Debug\net8.0\refint\CheckMonth2.dll
+C:\Users\lweber\source\repos\CheckMonth2\CheckMonth2\obj\Debug\net8.0\CheckMonth2.pdb
+C:\Users\lweber\source\repos\CheckMonth2\CheckMonth2\obj\Debug\net8.0\CheckMonth2.genruntimeconfig.cache
+C:\Users\lweber\source\repos\CheckMonth2\CheckMonth2\obj\Debug\net8.0\ref\CheckMonth2.dll
