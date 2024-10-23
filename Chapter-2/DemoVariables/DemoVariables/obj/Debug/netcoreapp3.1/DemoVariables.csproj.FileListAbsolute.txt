@@ -1,0 +1,13 @@
+C:\Users\lweber\source\repos\DemoVariables\DemoVariables\bin\Debug\netcoreapp3.1\DemoVariables.exe
+C:\Users\lweber\source\repos\DemoVariables\DemoVariables\bin\Debug\netcoreapp3.1\DemoVariables.deps.json
+C:\Users\lweber\source\repos\DemoVariables\DemoVariables\bin\Debug\netcoreapp3.1\DemoVariables.runtimeconfig.json
+C:\Users\lweber\source\repos\DemoVariables\DemoVariables\bin\Debug\netcoreapp3.1\DemoVariables.runtimeconfig.dev.json
+C:\Users\lweber\source\repos\DemoVariables\DemoVariables\bin\Debug\netcoreapp3.1\DemoVariables.dll
+C:\Users\lweber\source\repos\DemoVariables\DemoVariables\bin\Debug\netcoreapp3.1\DemoVariables.pdb
+C:\Users\lweber\source\repos\DemoVariables\DemoVariables\obj\Debug\netcoreapp3.1\DemoVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\DemoVariables\DemoVariables\obj\Debug\netcoreapp3.1\DemoVariables.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\DemoVariables\DemoVariables\obj\Debug\netcoreapp3.1\DemoVariables.AssemblyInfo.cs
+C:\Users\lweber\source\repos\DemoVariables\DemoVariables\obj\Debug\netcoreapp3.1\DemoVariables.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\DemoVariables\DemoVariables\obj\Debug\netcoreapp3.1\DemoVariables.dll
+C:\Users\lweber\source\repos\DemoVariables\DemoVariables\obj\Debug\netcoreapp3.1\DemoVariables.pdb
+C:\Users\lweber\source\repos\DemoVariables\DemoVariables\obj\Debug\netcoreapp3.1\DemoVariables.genruntimeconfig.cache

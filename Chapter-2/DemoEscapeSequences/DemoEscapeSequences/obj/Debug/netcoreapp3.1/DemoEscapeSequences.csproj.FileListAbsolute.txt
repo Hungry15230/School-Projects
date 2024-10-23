@@ -1,0 +1,13 @@
+C:\Users\lweber\source\repos\DemoEscapeSequences\DemoEscapeSequences\bin\Debug\netcoreapp3.1\DemoEscapeSequences.exe
+C:\Users\lweber\source\repos\DemoEscapeSequences\DemoEscapeSequences\bin\Debug\netcoreapp3.1\DemoEscapeSequences.deps.json
+C:\Users\lweber\source\repos\DemoEscapeSequences\DemoEscapeSequences\bin\Debug\netcoreapp3.1\DemoEscapeSequences.runtimeconfig.json
+C:\Users\lweber\source\repos\DemoEscapeSequences\DemoEscapeSequences\bin\Debug\netcoreapp3.1\DemoEscapeSequences.runtimeconfig.dev.json
+C:\Users\lweber\source\repos\DemoEscapeSequences\DemoEscapeSequences\bin\Debug\netcoreapp3.1\DemoEscapeSequences.dll
+C:\Users\lweber\source\repos\DemoEscapeSequences\DemoEscapeSequences\bin\Debug\netcoreapp3.1\DemoEscapeSequences.pdb
+C:\Users\lweber\source\repos\DemoEscapeSequences\DemoEscapeSequences\obj\Debug\netcoreapp3.1\DemoEscapeSequences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\DemoEscapeSequences\DemoEscapeSequences\obj\Debug\netcoreapp3.1\DemoEscapeSequences.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\DemoEscapeSequences\DemoEscapeSequences\obj\Debug\netcoreapp3.1\DemoEscapeSequences.AssemblyInfo.cs
+C:\Users\lweber\source\repos\DemoEscapeSequences\DemoEscapeSequences\obj\Debug\netcoreapp3.1\DemoEscapeSequences.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\DemoEscapeSequences\DemoEscapeSequences\obj\Debug\netcoreapp3.1\DemoEscapeSequences.dll
+C:\Users\lweber\source\repos\DemoEscapeSequences\DemoEscapeSequences\obj\Debug\netcoreapp3.1\DemoEscapeSequences.pdb
+C:\Users\lweber\source\repos\DemoEscapeSequences\DemoEscapeSequences\obj\Debug\netcoreapp3.1\DemoEscapeSequences.genruntimeconfig.cache
