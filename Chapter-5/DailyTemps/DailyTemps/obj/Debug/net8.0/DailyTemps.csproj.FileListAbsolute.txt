@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Chapter 5\DailyTemps\DailyTemps\bin\Debug\net8.0\DailyTemps.exe
+C:\Users\lweber\source\repos\Chapter 5\DailyTemps\DailyTemps\bin\Debug\net8.0\DailyTemps.deps.json
+C:\Users\lweber\source\repos\Chapter 5\DailyTemps\DailyTemps\bin\Debug\net8.0\DailyTemps.runtimeconfig.json
+C:\Users\lweber\source\repos\Chapter 5\DailyTemps\DailyTemps\bin\Debug\net8.0\DailyTemps.dll
+C:\Users\lweber\source\repos\Chapter 5\DailyTemps\DailyTemps\bin\Debug\net8.0\DailyTemps.pdb
+C:\Users\lweber\source\repos\Chapter 5\DailyTemps\DailyTemps\obj\Debug\net8.0\DailyTemps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Chapter 5\DailyTemps\DailyTemps\obj\Debug\net8.0\DailyTemps.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Chapter 5\DailyTemps\DailyTemps\obj\Debug\net8.0\DailyTemps.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Chapter 5\DailyTemps\DailyTemps\obj\Debug\net8.0\DailyTemps.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Chapter 5\DailyTemps\DailyTemps\obj\Debug\net8.0\DailyTemps.dll
+C:\Users\lweber\source\repos\Chapter 5\DailyTemps\DailyTemps\obj\Debug\net8.0\refint\DailyTemps.dll
+C:\Users\lweber\source\repos\Chapter 5\DailyTemps\DailyTemps\obj\Debug\net8.0\DailyTemps.pdb
+C:\Users\lweber\source\repos\Chapter 5\DailyTemps\DailyTemps\obj\Debug\net8.0\DailyTemps.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Chapter 5\DailyTemps\DailyTemps\obj\Debug\net8.0\ref\DailyTemps.dll
