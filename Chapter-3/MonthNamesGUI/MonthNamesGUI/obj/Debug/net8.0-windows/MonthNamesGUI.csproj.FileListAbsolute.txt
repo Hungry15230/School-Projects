@@ -1,0 +1,16 @@
+C:\Users\lweber\source\repos\MonthNamesGUI\MonthNamesGUI\bin\Debug\net8.0-windows\MonthNamesGUI.exe
+C:\Users\lweber\source\repos\MonthNamesGUI\MonthNamesGUI\bin\Debug\net8.0-windows\MonthNamesGUI.deps.json
+C:\Users\lweber\source\repos\MonthNamesGUI\MonthNamesGUI\bin\Debug\net8.0-windows\MonthNamesGUI.runtimeconfig.json
+C:\Users\lweber\source\repos\MonthNamesGUI\MonthNamesGUI\bin\Debug\net8.0-windows\MonthNamesGUI.dll
+C:\Users\lweber\source\repos\MonthNamesGUI\MonthNamesGUI\bin\Debug\net8.0-windows\MonthNamesGUI.pdb
+C:\Users\lweber\source\repos\MonthNamesGUI\MonthNamesGUI\obj\Debug\net8.0-windows\MonthNamesGUI.Form1.resources
+C:\Users\lweber\source\repos\MonthNamesGUI\MonthNamesGUI\obj\Debug\net8.0-windows\MonthNamesGUI.csproj.GenerateResource.cache
+C:\Users\lweber\source\repos\MonthNamesGUI\MonthNamesGUI\obj\Debug\net8.0-windows\MonthNamesGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\MonthNamesGUI\MonthNamesGUI\obj\Debug\net8.0-windows\MonthNamesGUI.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\MonthNamesGUI\MonthNamesGUI\obj\Debug\net8.0-windows\MonthNamesGUI.AssemblyInfo.cs
+C:\Users\lweber\source\repos\MonthNamesGUI\MonthNamesGUI\obj\Debug\net8.0-windows\MonthNamesGUI.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\MonthNamesGUI\MonthNamesGUI\obj\Debug\net8.0-windows\MonthNamesGUI.dll
+C:\Users\lweber\source\repos\MonthNamesGUI\MonthNamesGUI\obj\Debug\net8.0-windows\refint\MonthNamesGUI.dll
+C:\Users\lweber\source\repos\MonthNamesGUI\MonthNamesGUI\obj\Debug\net8.0-windows\MonthNamesGUI.pdb
+C:\Users\lweber\source\repos\MonthNamesGUI\MonthNamesGUI\obj\Debug\net8.0-windows\MonthNamesGUI.genruntimeconfig.cache
+C:\Users\lweber\source\repos\MonthNamesGUI\MonthNamesGUI\obj\Debug\net8.0-windows\ref\MonthNamesGUI.dll
