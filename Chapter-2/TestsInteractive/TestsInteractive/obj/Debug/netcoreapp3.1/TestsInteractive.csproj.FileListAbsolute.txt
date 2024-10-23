@@ -1,0 +1,13 @@
+C:\Users\lweber\source\repos\TestsInteractive\TestsInteractive\bin\Debug\netcoreapp3.1\TestsInteractive.exe
+C:\Users\lweber\source\repos\TestsInteractive\TestsInteractive\bin\Debug\netcoreapp3.1\TestsInteractive.deps.json
+C:\Users\lweber\source\repos\TestsInteractive\TestsInteractive\bin\Debug\netcoreapp3.1\TestsInteractive.runtimeconfig.json
+C:\Users\lweber\source\repos\TestsInteractive\TestsInteractive\bin\Debug\netcoreapp3.1\TestsInteractive.runtimeconfig.dev.json
+C:\Users\lweber\source\repos\TestsInteractive\TestsInteractive\bin\Debug\netcoreapp3.1\TestsInteractive.dll
+C:\Users\lweber\source\repos\TestsInteractive\TestsInteractive\bin\Debug\netcoreapp3.1\TestsInteractive.pdb
+C:\Users\lweber\source\repos\TestsInteractive\TestsInteractive\obj\Debug\netcoreapp3.1\TestsInteractive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\TestsInteractive\TestsInteractive\obj\Debug\netcoreapp3.1\TestsInteractive.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\TestsInteractive\TestsInteractive\obj\Debug\netcoreapp3.1\TestsInteractive.AssemblyInfo.cs
+C:\Users\lweber\source\repos\TestsInteractive\TestsInteractive\obj\Debug\netcoreapp3.1\TestsInteractive.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\TestsInteractive\TestsInteractive\obj\Debug\netcoreapp3.1\TestsInteractive.dll
+C:\Users\lweber\source\repos\TestsInteractive\TestsInteractive\obj\Debug\netcoreapp3.1\TestsInteractive.pdb
+C:\Users\lweber\source\repos\TestsInteractive\TestsInteractive\obj\Debug\netcoreapp3.1\TestsInteractive.genruntimeconfig.cache
