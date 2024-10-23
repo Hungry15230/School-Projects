@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Chapter 5\OddNums\OddNums\bin\Debug\net8.0\OddNums.exe
+C:\Users\lweber\source\repos\Chapter 5\OddNums\OddNums\bin\Debug\net8.0\OddNums.deps.json
+C:\Users\lweber\source\repos\Chapter 5\OddNums\OddNums\bin\Debug\net8.0\OddNums.runtimeconfig.json
+C:\Users\lweber\source\repos\Chapter 5\OddNums\OddNums\bin\Debug\net8.0\OddNums.dll
+C:\Users\lweber\source\repos\Chapter 5\OddNums\OddNums\bin\Debug\net8.0\OddNums.pdb
+C:\Users\lweber\source\repos\Chapter 5\OddNums\OddNums\obj\Debug\net8.0\OddNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Chapter 5\OddNums\OddNums\obj\Debug\net8.0\OddNums.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Chapter 5\OddNums\OddNums\obj\Debug\net8.0\OddNums.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Chapter 5\OddNums\OddNums\obj\Debug\net8.0\OddNums.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Chapter 5\OddNums\OddNums\obj\Debug\net8.0\OddNums.dll
+C:\Users\lweber\source\repos\Chapter 5\OddNums\OddNums\obj\Debug\net8.0\refint\OddNums.dll
+C:\Users\lweber\source\repos\Chapter 5\OddNums\OddNums\obj\Debug\net8.0\OddNums.pdb
+C:\Users\lweber\source\repos\Chapter 5\OddNums\OddNums\obj\Debug\net8.0\OddNums.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Chapter 5\OddNums\OddNums\obj\Debug\net8.0\ref\OddNums.dll
