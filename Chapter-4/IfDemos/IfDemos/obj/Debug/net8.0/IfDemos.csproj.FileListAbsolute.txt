@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Chapter 4\IfDemos\IfDemos\bin\Debug\net8.0\IfDemos.exe
+C:\Users\lweber\source\repos\Chapter 4\IfDemos\IfDemos\bin\Debug\net8.0\IfDemos.deps.json
+C:\Users\lweber\source\repos\Chapter 4\IfDemos\IfDemos\bin\Debug\net8.0\IfDemos.runtimeconfig.json
+C:\Users\lweber\source\repos\Chapter 4\IfDemos\IfDemos\bin\Debug\net8.0\IfDemos.dll
+C:\Users\lweber\source\repos\Chapter 4\IfDemos\IfDemos\bin\Debug\net8.0\IfDemos.pdb
+C:\Users\lweber\source\repos\Chapter 4\IfDemos\IfDemos\obj\Debug\net8.0\IfDemos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Chapter 4\IfDemos\IfDemos\obj\Debug\net8.0\IfDemos.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Chapter 4\IfDemos\IfDemos\obj\Debug\net8.0\IfDemos.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Chapter 4\IfDemos\IfDemos\obj\Debug\net8.0\IfDemos.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Chapter 4\IfDemos\IfDemos\obj\Debug\net8.0\IfDemos.dll
+C:\Users\lweber\source\repos\Chapter 4\IfDemos\IfDemos\obj\Debug\net8.0\refint\IfDemos.dll
+C:\Users\lweber\source\repos\Chapter 4\IfDemos\IfDemos\obj\Debug\net8.0\IfDemos.pdb
+C:\Users\lweber\source\repos\Chapter 4\IfDemos\IfDemos\obj\Debug\net8.0\IfDemos.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Chapter 4\IfDemos\IfDemos\obj\Debug\net8.0\ref\IfDemos.dll
