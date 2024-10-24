@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Chapter 5\CountVowels\CountVowels\bin\Debug\net6.0\CountVowels.exe
+C:\Users\lweber\source\repos\Chapter 5\CountVowels\CountVowels\bin\Debug\net6.0\CountVowels.deps.json
+C:\Users\lweber\source\repos\Chapter 5\CountVowels\CountVowels\bin\Debug\net6.0\CountVowels.runtimeconfig.json
+C:\Users\lweber\source\repos\Chapter 5\CountVowels\CountVowels\bin\Debug\net6.0\CountVowels.dll
+C:\Users\lweber\source\repos\Chapter 5\CountVowels\CountVowels\bin\Debug\net6.0\CountVowels.pdb
+C:\Users\lweber\source\repos\Chapter 5\CountVowels\CountVowels\obj\Debug\net6.0\CountVowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Chapter 5\CountVowels\CountVowels\obj\Debug\net6.0\CountVowels.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Chapter 5\CountVowels\CountVowels\obj\Debug\net6.0\CountVowels.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Chapter 5\CountVowels\CountVowels\obj\Debug\net6.0\CountVowels.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Chapter 5\CountVowels\CountVowels\obj\Debug\net6.0\CountVowels.dll
+C:\Users\lweber\source\repos\Chapter 5\CountVowels\CountVowels\obj\Debug\net6.0\refint\CountVowels.dll
+C:\Users\lweber\source\repos\Chapter 5\CountVowels\CountVowels\obj\Debug\net6.0\CountVowels.pdb
+C:\Users\lweber\source\repos\Chapter 5\CountVowels\CountVowels\obj\Debug\net6.0\CountVowels.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Chapter 5\CountVowels\CountVowels\obj\Debug\net6.0\ref\CountVowels.dll
