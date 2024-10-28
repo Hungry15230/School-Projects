@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CheckMonth1
-build_property.ProjectDir = C:\Users\lweber\Source\Repos\Hungry15230\School-Projects\Chapter-4\CheckMonth1\CheckMonth1\
+build_property.ProjectDir = C:\Users\lweber\source\repos\CheckMonth1\CheckMonth1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
