@@ -1,4 +1,6 @@
-﻿namespace GuessingGame2
+﻿using System.Globalization;
+
+namespace GuessingGame2
 {
     internal class Program
     {
