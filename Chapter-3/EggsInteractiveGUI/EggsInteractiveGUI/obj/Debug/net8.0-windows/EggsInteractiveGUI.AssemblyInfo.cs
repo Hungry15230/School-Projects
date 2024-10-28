@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EggsInteractiveGUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcd8f932beb8011bf9ffeded29463aa2afa1f774")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("EggsInteractiveGUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EggsInteractiveGUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
