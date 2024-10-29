@@ -1,0 +1,15 @@
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-5\GuessingGame3\GuessingGame3\bin\Debug\net6.0\GuessingGame3.exe
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-5\GuessingGame3\GuessingGame3\bin\Debug\net6.0\GuessingGame3.deps.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-5\GuessingGame3\GuessingGame3\bin\Debug\net6.0\GuessingGame3.runtimeconfig.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-5\GuessingGame3\GuessingGame3\bin\Debug\net6.0\GuessingGame3.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-5\GuessingGame3\GuessingGame3\bin\Debug\net6.0\GuessingGame3.pdb
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-5\GuessingGame3\GuessingGame3\obj\Debug\net6.0\GuessingGame3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-5\GuessingGame3\GuessingGame3\obj\Debug\net6.0\GuessingGame3.AssemblyInfoInputs.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-5\GuessingGame3\GuessingGame3\obj\Debug\net6.0\GuessingGame3.AssemblyInfo.cs
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-5\GuessingGame3\GuessingGame3\obj\Debug\net6.0\GuessingGame3.csproj.CoreCompileInputs.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-5\GuessingGame3\GuessingGame3\obj\Debug\net6.0\GuessingGame3.sourcelink.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-5\GuessingGame3\GuessingGame3\obj\Debug\net6.0\GuessingGame3.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-5\GuessingGame3\GuessingGame3\obj\Debug\net6.0\refint\GuessingGame3.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-5\GuessingGame3\GuessingGame3\obj\Debug\net6.0\GuessingGame3.pdb
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-5\GuessingGame3\GuessingGame3\obj\Debug\net6.0\GuessingGame3.genruntimeconfig.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-5\GuessingGame3\GuessingGame3\obj\Debug\net6.0\ref\GuessingGame3.dll
