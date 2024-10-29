@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ArrayDemo1\ArrayDemo1\bin\Debug\net6.0\ArrayDemo1.exe
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ArrayDemo1\ArrayDemo1\bin\Debug\net6.0\ArrayDemo1.deps.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ArrayDemo1\ArrayDemo1\bin\Debug\net6.0\ArrayDemo1.runtimeconfig.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ArrayDemo1\ArrayDemo1\bin\Debug\net6.0\ArrayDemo1.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ArrayDemo1\ArrayDemo1\bin\Debug\net6.0\ArrayDemo1.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ArrayDemo1\ArrayDemo1\obj\Debug\net6.0\ArrayDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ArrayDemo1\ArrayDemo1\obj\Debug\net6.0\ArrayDemo1.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ArrayDemo1\ArrayDemo1\obj\Debug\net6.0\ArrayDemo1.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ArrayDemo1\ArrayDemo1\obj\Debug\net6.0\ArrayDemo1.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ArrayDemo1\ArrayDemo1\obj\Debug\net6.0\ArrayDemo1.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ArrayDemo1\ArrayDemo1\obj\Debug\net6.0\refint\ArrayDemo1.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ArrayDemo1\ArrayDemo1\obj\Debug\net6.0\ArrayDemo1.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ArrayDemo1\ArrayDemo1\obj\Debug\net6.0\ArrayDemo1.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ArrayDemo1\ArrayDemo1\obj\Debug\net6.0\ref\ArrayDemo1.dll
