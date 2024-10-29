@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lweber\\source\\repos\\Chapter-5\\TippingTable\\TippingTable\\TippingTable.csproj": {}
+    "C:\\Users\\lweber\\source\\repos\\Github\\School-Projects\\Chapter-5\\TippingTable\\TippingTable\\TippingTable.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lweber\\source\\repos\\Chapter-5\\TippingTable\\TippingTable\\TippingTable.csproj": {
+    "C:\\Users\\lweber\\source\\repos\\Github\\School-Projects\\Chapter-5\\TippingTable\\TippingTable\\TippingTable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lweber\\source\\repos\\Chapter-5\\TippingTable\\TippingTable\\TippingTable.csproj",
+        "projectUniqueName": "C:\\Users\\lweber\\source\\repos\\Github\\School-Projects\\Chapter-5\\TippingTable\\TippingTable\\TippingTable.csproj",
         "projectName": "TippingTable",
-        "projectPath": "C:\\Users\\lweber\\source\\repos\\Chapter-5\\TippingTable\\TippingTable\\TippingTable.csproj",
+        "projectPath": "C:\\Users\\lweber\\source\\repos\\Github\\School-Projects\\Chapter-5\\TippingTable\\TippingTable\\TippingTable.csproj",
         "packagesPath": "C:\\Users\\lweber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lweber\\source\\repos\\Chapter-5\\TippingTable\\TippingTable\\obj\\",
+        "outputPath": "C:\\Users\\lweber\\source\\repos\\Github\\School-Projects\\Chapter-5\\TippingTable\\TippingTable\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

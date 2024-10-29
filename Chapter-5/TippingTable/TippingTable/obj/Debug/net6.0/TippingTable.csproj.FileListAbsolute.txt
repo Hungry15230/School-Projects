@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\TippingTable\TippingTable\bin\Debug\net6.0\TippingTable.exe
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\TippingTable\TippingTable\bin\Debug\net6.0\TippingTable.deps.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\TippingTable\TippingTable\bin\Debug\net6.0\TippingTable.runtimeconfig.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\TippingTable\TippingTable\bin\Debug\net6.0\TippingTable.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\TippingTable\TippingTable\bin\Debug\net6.0\TippingTable.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\TippingTable\TippingTable\obj\Debug\net6.0\TippingTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\TippingTable\TippingTable\obj\Debug\net6.0\TippingTable.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\TippingTable\TippingTable\obj\Debug\net6.0\TippingTable.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\TippingTable\TippingTable\obj\Debug\net6.0\TippingTable.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\TippingTable\TippingTable\obj\Debug\net6.0\TippingTable.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\TippingTable\TippingTable\obj\Debug\net6.0\refint\TippingTable.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\TippingTable\TippingTable\obj\Debug\net6.0\TippingTable.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\TippingTable\TippingTable\obj\Debug\net6.0\TippingTable.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\TippingTable\TippingTable\obj\Debug\net6.0\ref\TippingTable.dll
