@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GuessingGame3
-build_property.ProjectDir = C:\Users\lweber\source\repos\Hungry15230\School-Projects\Chapter-5\GuessingGame3\GuessingGame3\
+build_property.ProjectDir = C:\Users\hungr\source\repos\Github\School-Projects\Chapter-5\GuessingGame3\GuessingGame3\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

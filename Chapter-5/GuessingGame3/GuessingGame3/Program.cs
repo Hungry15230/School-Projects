@@ -9,7 +9,7 @@
             while (true)
             {
                 Console.Write("Enter a number 1-11: ");
-                string userInput = Console.ReadLine();
+                string userInput = Console.ReadLine() ?? "";
                 int userNumber = Convert.ToInt16(userInput);
 
                 if (randomNumber == userNumber)
