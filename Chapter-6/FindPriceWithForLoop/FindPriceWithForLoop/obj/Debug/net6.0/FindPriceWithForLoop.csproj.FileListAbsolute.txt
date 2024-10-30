@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\bin\Debug\net6.0\FindPriceWithForLoop.exe
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\bin\Debug\net6.0\FindPriceWithForLoop.deps.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\bin\Debug\net6.0\FindPriceWithForLoop.runtimeconfig.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\bin\Debug\net6.0\FindPriceWithForLoop.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\bin\Debug\net6.0\FindPriceWithForLoop.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\obj\Debug\net6.0\FindPriceWithForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\obj\Debug\net6.0\FindPriceWithForLoop.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\obj\Debug\net6.0\FindPriceWithForLoop.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\obj\Debug\net6.0\FindPriceWithForLoop.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\obj\Debug\net6.0\FindPriceWithForLoop.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\obj\Debug\net6.0\refint\FindPriceWithForLoop.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\obj\Debug\net6.0\FindPriceWithForLoop.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\obj\Debug\net6.0\FindPriceWithForLoop.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\obj\Debug\net6.0\ref\FindPriceWithForLoop.dll
