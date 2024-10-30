@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\SumInts\SumInts\bin\Debug\net6.0\SumInts.exe
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\SumInts\SumInts\bin\Debug\net6.0\SumInts.deps.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\SumInts\SumInts\bin\Debug\net6.0\SumInts.runtimeconfig.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\SumInts\SumInts\bin\Debug\net6.0\SumInts.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\SumInts\SumInts\bin\Debug\net6.0\SumInts.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\SumInts\SumInts\obj\Debug\net6.0\SumInts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\SumInts\SumInts\obj\Debug\net6.0\SumInts.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\SumInts\SumInts\obj\Debug\net6.0\SumInts.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\SumInts\SumInts\obj\Debug\net6.0\SumInts.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\SumInts\SumInts\obj\Debug\net6.0\SumInts.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\SumInts\SumInts\obj\Debug\net6.0\refint\SumInts.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\SumInts\SumInts\obj\Debug\net6.0\SumInts.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\SumInts\SumInts\obj\Debug\net6.0\SumInts.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\SumInts\SumInts\obj\Debug\net6.0\ref\SumInts.dll
