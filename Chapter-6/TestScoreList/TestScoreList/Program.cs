@@ -4,11 +4,6 @@
     {
         static void Main(string[] args)
         {
-            /*
-            Write a program named TestScoreList that accepts eight int values representing
-            student test scores. Display each of the values along with a message that indicates how
-            far it is from the average.
-            */
             int[] testScores = new int[8];
             int totalScores = 0;
             for (int i = 0; i < testScores.Length; i++)
