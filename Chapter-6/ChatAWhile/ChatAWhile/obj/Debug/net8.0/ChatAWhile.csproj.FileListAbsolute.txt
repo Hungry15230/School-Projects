@@ -1,0 +1,15 @@
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\ChatAWhile\ChatAWhile\bin\Debug\net8.0\ChatAWhile.exe
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\ChatAWhile\ChatAWhile\bin\Debug\net8.0\ChatAWhile.deps.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\ChatAWhile\ChatAWhile\bin\Debug\net8.0\ChatAWhile.runtimeconfig.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\ChatAWhile\ChatAWhile\bin\Debug\net8.0\ChatAWhile.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\ChatAWhile\ChatAWhile\bin\Debug\net8.0\ChatAWhile.pdb
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\ChatAWhile\ChatAWhile\obj\Debug\net8.0\ChatAWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\ChatAWhile\ChatAWhile\obj\Debug\net8.0\ChatAWhile.AssemblyInfoInputs.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\ChatAWhile\ChatAWhile\obj\Debug\net8.0\ChatAWhile.AssemblyInfo.cs
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\ChatAWhile\ChatAWhile\obj\Debug\net8.0\ChatAWhile.csproj.CoreCompileInputs.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\ChatAWhile\ChatAWhile\obj\Debug\net8.0\ChatAWhile.sourcelink.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\ChatAWhile\ChatAWhile\obj\Debug\net8.0\ChatAWhile.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\ChatAWhile\ChatAWhile\obj\Debug\net8.0\refint\ChatAWhile.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\ChatAWhile\ChatAWhile\obj\Debug\net8.0\ChatAWhile.pdb
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\ChatAWhile\ChatAWhile\obj\Debug\net8.0\ChatAWhile.genruntimeconfig.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\ChatAWhile\ChatAWhile\obj\Debug\net8.0\ref\ChatAWhile.dll
