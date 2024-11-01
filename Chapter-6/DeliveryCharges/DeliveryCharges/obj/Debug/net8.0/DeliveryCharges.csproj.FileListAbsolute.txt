@@ -1,0 +1,15 @@
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\DeliveryCharges\DeliveryCharges\bin\Debug\net8.0\DeliveryCharges.exe
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\DeliveryCharges\DeliveryCharges\bin\Debug\net8.0\DeliveryCharges.deps.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\DeliveryCharges\DeliveryCharges\bin\Debug\net8.0\DeliveryCharges.runtimeconfig.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\DeliveryCharges\DeliveryCharges\bin\Debug\net8.0\DeliveryCharges.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\DeliveryCharges\DeliveryCharges\bin\Debug\net8.0\DeliveryCharges.pdb
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\DeliveryCharges\DeliveryCharges\obj\Debug\net8.0\DeliveryCharges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\DeliveryCharges\DeliveryCharges\obj\Debug\net8.0\DeliveryCharges.AssemblyInfoInputs.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\DeliveryCharges\DeliveryCharges\obj\Debug\net8.0\DeliveryCharges.AssemblyInfo.cs
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\DeliveryCharges\DeliveryCharges\obj\Debug\net8.0\DeliveryCharges.csproj.CoreCompileInputs.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\DeliveryCharges\DeliveryCharges\obj\Debug\net8.0\DeliveryCharges.sourcelink.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\DeliveryCharges\DeliveryCharges\obj\Debug\net8.0\DeliveryCharges.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\DeliveryCharges\DeliveryCharges\obj\Debug\net8.0\refint\DeliveryCharges.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\DeliveryCharges\DeliveryCharges\obj\Debug\net8.0\DeliveryCharges.pdb
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\DeliveryCharges\DeliveryCharges\obj\Debug\net8.0\DeliveryCharges.genruntimeconfig.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\DeliveryCharges\DeliveryCharges\obj\Debug\net8.0\ref\DeliveryCharges.dll
