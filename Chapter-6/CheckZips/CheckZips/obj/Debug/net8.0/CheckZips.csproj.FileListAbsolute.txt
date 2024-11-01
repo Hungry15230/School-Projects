@@ -1,0 +1,15 @@
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\CheckZips\CheckZips\bin\Debug\net8.0\CheckZips.exe
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\CheckZips\CheckZips\bin\Debug\net8.0\CheckZips.deps.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\CheckZips\CheckZips\bin\Debug\net8.0\CheckZips.runtimeconfig.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\CheckZips\CheckZips\bin\Debug\net8.0\CheckZips.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\CheckZips\CheckZips\bin\Debug\net8.0\CheckZips.pdb
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\CheckZips\CheckZips\obj\Debug\net8.0\CheckZips.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\CheckZips\CheckZips\obj\Debug\net8.0\CheckZips.AssemblyInfoInputs.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\CheckZips\CheckZips\obj\Debug\net8.0\CheckZips.AssemblyInfo.cs
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\CheckZips\CheckZips\obj\Debug\net8.0\CheckZips.csproj.CoreCompileInputs.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\CheckZips\CheckZips\obj\Debug\net8.0\CheckZips.sourcelink.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\CheckZips\CheckZips\obj\Debug\net8.0\CheckZips.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\CheckZips\CheckZips\obj\Debug\net8.0\refint\CheckZips.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\CheckZips\CheckZips\obj\Debug\net8.0\CheckZips.pdb
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\CheckZips\CheckZips\obj\Debug\net8.0\CheckZips.genruntimeconfig.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\CheckZips\CheckZips\obj\Debug\net8.0\ref\CheckZips.dll
