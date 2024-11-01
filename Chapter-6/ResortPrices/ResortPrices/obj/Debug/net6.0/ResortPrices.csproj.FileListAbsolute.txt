@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ResortPrices\ResortPrices\bin\Debug\net6.0\ResortPrices.exe
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ResortPrices\ResortPrices\bin\Debug\net6.0\ResortPrices.deps.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ResortPrices\ResortPrices\bin\Debug\net6.0\ResortPrices.runtimeconfig.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ResortPrices\ResortPrices\bin\Debug\net6.0\ResortPrices.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ResortPrices\ResortPrices\bin\Debug\net6.0\ResortPrices.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ResortPrices\ResortPrices\obj\Debug\net6.0\ResortPrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ResortPrices\ResortPrices\obj\Debug\net6.0\ResortPrices.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ResortPrices\ResortPrices\obj\Debug\net6.0\ResortPrices.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ResortPrices\ResortPrices\obj\Debug\net6.0\ResortPrices.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ResortPrices\ResortPrices\obj\Debug\net6.0\ResortPrices.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ResortPrices\ResortPrices\obj\Debug\net6.0\refint\ResortPrices.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ResortPrices\ResortPrices\obj\Debug\net6.0\ResortPrices.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ResortPrices\ResortPrices\obj\Debug\net6.0\ResortPrices.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-6\ResortPrices\ResortPrices\obj\Debug\net6.0\ref\ResortPrices.dll
