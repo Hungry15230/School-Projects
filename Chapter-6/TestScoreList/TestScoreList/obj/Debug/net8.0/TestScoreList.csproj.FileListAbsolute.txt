@@ -1,0 +1,15 @@
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\TestScoreList\TestScoreList\bin\Debug\net8.0\TestScoreList.exe
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\TestScoreList\TestScoreList\bin\Debug\net8.0\TestScoreList.deps.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\TestScoreList\TestScoreList\bin\Debug\net8.0\TestScoreList.runtimeconfig.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\TestScoreList\TestScoreList\bin\Debug\net8.0\TestScoreList.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\TestScoreList\TestScoreList\bin\Debug\net8.0\TestScoreList.pdb
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\TestScoreList\TestScoreList\obj\Debug\net8.0\TestScoreList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\TestScoreList\TestScoreList\obj\Debug\net8.0\TestScoreList.AssemblyInfoInputs.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\TestScoreList\TestScoreList\obj\Debug\net8.0\TestScoreList.AssemblyInfo.cs
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\TestScoreList\TestScoreList\obj\Debug\net8.0\TestScoreList.csproj.CoreCompileInputs.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\TestScoreList\TestScoreList\obj\Debug\net8.0\TestScoreList.sourcelink.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\TestScoreList\TestScoreList\obj\Debug\net8.0\TestScoreList.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\TestScoreList\TestScoreList\obj\Debug\net8.0\refint\TestScoreList.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\TestScoreList\TestScoreList\obj\Debug\net8.0\TestScoreList.pdb
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\TestScoreList\TestScoreList\obj\Debug\net8.0\TestScoreList.genruntimeconfig.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-6\TestScoreList\TestScoreList\obj\Debug\net8.0\ref\TestScoreList.dll
