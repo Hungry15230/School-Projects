@@ -1,0 +1,15 @@
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\DemoLogo\DemoLogo\bin\Debug\net8.0\DemoLogo.exe
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\DemoLogo\DemoLogo\bin\Debug\net8.0\DemoLogo.deps.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\DemoLogo\DemoLogo\bin\Debug\net8.0\DemoLogo.runtimeconfig.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\DemoLogo\DemoLogo\bin\Debug\net8.0\DemoLogo.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\DemoLogo\DemoLogo\bin\Debug\net8.0\DemoLogo.pdb
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\DemoLogo\DemoLogo\obj\Debug\net8.0\DemoLogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\DemoLogo\DemoLogo\obj\Debug\net8.0\DemoLogo.AssemblyInfoInputs.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\DemoLogo\DemoLogo\obj\Debug\net8.0\DemoLogo.AssemblyInfo.cs
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\DemoLogo\DemoLogo\obj\Debug\net8.0\DemoLogo.csproj.CoreCompileInputs.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\DemoLogo\DemoLogo\obj\Debug\net8.0\DemoLogo.sourcelink.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\DemoLogo\DemoLogo\obj\Debug\net8.0\DemoLogo.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\DemoLogo\DemoLogo\obj\Debug\net8.0\refint\DemoLogo.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\DemoLogo\DemoLogo\obj\Debug\net8.0\DemoLogo.pdb
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\DemoLogo\DemoLogo\obj\Debug\net8.0\DemoLogo.genruntimeconfig.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\DemoLogo\DemoLogo\obj\Debug\net8.0\ref\DemoLogo.dll
