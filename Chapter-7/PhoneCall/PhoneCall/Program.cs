@@ -19,10 +19,8 @@
             {
                 for (int y = 0; y < rates.Length; ++y)
                 {
-                    priceOfCall = CalcPhoneCallPrice(callLengths[x],
-                    rates[y]);
-                    Console.WriteLine("{0, 10}{1, 10}{2, 10}",
-                    callLengths[x], rates[y], priceOfCall.ToString("C"));
+                    priceOfCall = CalcPhoneCallPrice(callLengths[x], rates[y]);
+                    Console.WriteLine("{0, 10}{1, 10}{2, 10}", callLengths[x], rates[y], priceOfCall.ToString("C"));
                 }
             }
         }
