@@ -1,0 +1,15 @@
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\PhoneCall\PhoneCall\bin\Debug\net8.0\PhoneCall.exe
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\PhoneCall\PhoneCall\bin\Debug\net8.0\PhoneCall.deps.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\PhoneCall\PhoneCall\bin\Debug\net8.0\PhoneCall.runtimeconfig.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\PhoneCall\PhoneCall\bin\Debug\net8.0\PhoneCall.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\PhoneCall\PhoneCall\bin\Debug\net8.0\PhoneCall.pdb
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\PhoneCall\PhoneCall\obj\Debug\net8.0\PhoneCall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\PhoneCall\PhoneCall\obj\Debug\net8.0\PhoneCall.AssemblyInfoInputs.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\PhoneCall\PhoneCall\obj\Debug\net8.0\PhoneCall.AssemblyInfo.cs
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\PhoneCall\PhoneCall\obj\Debug\net8.0\PhoneCall.csproj.CoreCompileInputs.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\PhoneCall\PhoneCall\obj\Debug\net8.0\PhoneCall.sourcelink.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\PhoneCall\PhoneCall\obj\Debug\net8.0\PhoneCall.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\PhoneCall\PhoneCall\obj\Debug\net8.0\refint\PhoneCall.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\PhoneCall\PhoneCall\obj\Debug\net8.0\PhoneCall.pdb
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\PhoneCall\PhoneCall\obj\Debug\net8.0\PhoneCall.genruntimeconfig.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-7\PhoneCall\PhoneCall\obj\Debug\net8.0\ref\PhoneCall.dll
