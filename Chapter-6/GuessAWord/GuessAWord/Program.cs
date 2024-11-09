@@ -5,37 +5,33 @@
         static void Main(string[] args)
         {
             Random random = new Random();
-            string currentWord;
             string knownLetters = "";
             string[] wordOptions = { "programming", "marathon", "magical", "hypothalamus", "mordor", "coconut", "basalt", "volcano" };
-            List<int> indexesOfLetters = new List<int>();
-            currentWord = wordOptions[random.Next(0, 8)];
+            string currentWord = wordOptions[random.Next(wordOptions.Length)];
             for (int i = 0; i < currentWord.Length; i++) { knownLetters += "_"; }
             while (true)
             {
-                Console.Write($"Word to guess: ");
-                Console.WriteLine(knownLetters);
-                Console.Write("Guess a letter: ");
+                Console.WriteLine($"Word to guess: {knownLetters}");
+                Console.Write($"Guess a letter: ");
                 char guessedLetter = Convert.ToChar(Console.ReadLine() ?? "");
                 if (currentWord.Contains(guessedLetter))
                 {
-                    indexesOfLetters.Clear();
+                    Console.WriteLine($"Word contains '{guessedLetter}'.");
                     for (int i = 0; i < currentWord.Length; i++)
                     {
-                        if (currentWord[i] == guessedLetter) { indexesOfLetters.Add(i); }
-                    }
-                    for (int i = 0; i < indexesOfLetters.Count; i++)
-                    {
-                        knownLetters = knownLetters.Remove(indexesOfLetters[i], 1).Insert(indexesOfLetters[i], Convert.ToString(guessedLetter));
+                        if (currentWord[i] == guessedLetter)
+                        {
+                            knownLetters = knownLetters.Remove(i, 1).Insert(i, Convert.ToString(guessedLetter));
+                        }
                     }
                 }
                 else
                 {
-                    Console.WriteLine("Wrong Letter");
+                    Console.WriteLine($"Word does not contain '{guessedLetter}'");
                 }
                 if (!knownLetters.Contains("_")) { break; }
             }
-            Console.WriteLine(knownLetters);
+            Console.WriteLine($"Word: {knownLetters}");
             Console.WriteLine("Congrats!");
         }
     }
