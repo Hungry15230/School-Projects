@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\PaintingEstimate\PaintingEstimate\bin\Debug\net6.0\PaintingEstimate.exe
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\PaintingEstimate\PaintingEstimate\bin\Debug\net6.0\PaintingEstimate.deps.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\PaintingEstimate\PaintingEstimate\bin\Debug\net6.0\PaintingEstimate.runtimeconfig.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\PaintingEstimate\PaintingEstimate\bin\Debug\net6.0\PaintingEstimate.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\PaintingEstimate\PaintingEstimate\bin\Debug\net6.0\PaintingEstimate.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\PaintingEstimate\PaintingEstimate\obj\Debug\net6.0\PaintingEstimate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\PaintingEstimate\PaintingEstimate\obj\Debug\net6.0\PaintingEstimate.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\PaintingEstimate\PaintingEstimate\obj\Debug\net6.0\PaintingEstimate.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\PaintingEstimate\PaintingEstimate\obj\Debug\net6.0\PaintingEstimate.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\PaintingEstimate\PaintingEstimate\obj\Debug\net6.0\PaintingEstimate.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\PaintingEstimate\PaintingEstimate\obj\Debug\net6.0\refint\PaintingEstimate.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\PaintingEstimate\PaintingEstimate\obj\Debug\net6.0\PaintingEstimate.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\PaintingEstimate\PaintingEstimate\obj\Debug\net6.0\PaintingEstimate.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\PaintingEstimate\PaintingEstimate\obj\Debug\net6.0\ref\PaintingEstimate.dll
