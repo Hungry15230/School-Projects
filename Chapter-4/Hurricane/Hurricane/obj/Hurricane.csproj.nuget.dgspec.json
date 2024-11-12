@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lweber\\source\\repos\\Chapter 4\\Hurricane\\Hurricane\\Hurricane.csproj": {}
+    "C:\\Users\\lweber\\source\\repos\\Github\\School-Projects\\Chapter-4\\Hurricane\\Hurricane\\Hurricane.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lweber\\source\\repos\\Chapter 4\\Hurricane\\Hurricane\\Hurricane.csproj": {
+    "C:\\Users\\lweber\\source\\repos\\Github\\School-Projects\\Chapter-4\\Hurricane\\Hurricane\\Hurricane.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lweber\\source\\repos\\Chapter 4\\Hurricane\\Hurricane\\Hurricane.csproj",
+        "projectUniqueName": "C:\\Users\\lweber\\source\\repos\\Github\\School-Projects\\Chapter-4\\Hurricane\\Hurricane\\Hurricane.csproj",
         "projectName": "Hurricane",
-        "projectPath": "C:\\Users\\lweber\\source\\repos\\Chapter 4\\Hurricane\\Hurricane\\Hurricane.csproj",
+        "projectPath": "C:\\Users\\lweber\\source\\repos\\Github\\School-Projects\\Chapter-4\\Hurricane\\Hurricane\\Hurricane.csproj",
         "packagesPath": "C:\\Users\\lweber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lweber\\source\\repos\\Chapter 4\\Hurricane\\Hurricane\\obj\\",
+        "outputPath": "C:\\Users\\lweber\\source\\repos\\Github\\School-Projects\\Chapter-4\\Hurricane\\Hurricane\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -60,12 +55,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
