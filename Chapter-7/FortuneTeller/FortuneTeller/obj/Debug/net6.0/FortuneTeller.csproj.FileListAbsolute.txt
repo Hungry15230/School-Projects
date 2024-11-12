@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FortuneTeller\FortuneTeller\bin\Debug\net6.0\FortuneTeller.exe
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FortuneTeller\FortuneTeller\bin\Debug\net6.0\FortuneTeller.deps.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FortuneTeller\FortuneTeller\bin\Debug\net6.0\FortuneTeller.runtimeconfig.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FortuneTeller\FortuneTeller\bin\Debug\net6.0\FortuneTeller.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FortuneTeller\FortuneTeller\bin\Debug\net6.0\FortuneTeller.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FortuneTeller\FortuneTeller\obj\Debug\net6.0\FortuneTeller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FortuneTeller\FortuneTeller\obj\Debug\net6.0\FortuneTeller.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FortuneTeller\FortuneTeller\obj\Debug\net6.0\FortuneTeller.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FortuneTeller\FortuneTeller\obj\Debug\net6.0\FortuneTeller.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FortuneTeller\FortuneTeller\obj\Debug\net6.0\FortuneTeller.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FortuneTeller\FortuneTeller\obj\Debug\net6.0\refint\FortuneTeller.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FortuneTeller\FortuneTeller\obj\Debug\net6.0\FortuneTeller.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FortuneTeller\FortuneTeller\obj\Debug\net6.0\FortuneTeller.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FortuneTeller\FortuneTeller\obj\Debug\net6.0\ref\FortuneTeller.dll
