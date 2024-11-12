@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\AdmissionModularized\AdmissionModularized\bin\Debug\net6.0\AdmissionModularized.exe
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\AdmissionModularized\AdmissionModularized\bin\Debug\net6.0\AdmissionModularized.deps.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\AdmissionModularized\AdmissionModularized\bin\Debug\net6.0\AdmissionModularized.runtimeconfig.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\AdmissionModularized\AdmissionModularized\bin\Debug\net6.0\AdmissionModularized.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\AdmissionModularized\AdmissionModularized\bin\Debug\net6.0\AdmissionModularized.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\AdmissionModularized\AdmissionModularized\obj\Debug\net6.0\AdmissionModularized.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\AdmissionModularized\AdmissionModularized\obj\Debug\net6.0\AdmissionModularized.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\AdmissionModularized\AdmissionModularized\obj\Debug\net6.0\AdmissionModularized.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\AdmissionModularized\AdmissionModularized\obj\Debug\net6.0\AdmissionModularized.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\AdmissionModularized\AdmissionModularized\obj\Debug\net6.0\AdmissionModularized.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\AdmissionModularized\AdmissionModularized\obj\Debug\net6.0\refint\AdmissionModularized.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\AdmissionModularized\AdmissionModularized\obj\Debug\net6.0\AdmissionModularized.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\AdmissionModularized\AdmissionModularized\obj\Debug\net6.0\AdmissionModularized.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\AdmissionModularized\AdmissionModularized\obj\Debug\net6.0\ref\AdmissionModularized.dll
