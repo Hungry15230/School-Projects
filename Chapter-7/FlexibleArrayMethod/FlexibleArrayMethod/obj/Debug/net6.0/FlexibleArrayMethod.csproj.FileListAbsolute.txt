@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FlexibleArrayMethod\FlexibleArrayMethod\bin\Debug\net6.0\FlexibleArrayMethod.exe
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FlexibleArrayMethod\FlexibleArrayMethod\bin\Debug\net6.0\FlexibleArrayMethod.deps.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FlexibleArrayMethod\FlexibleArrayMethod\bin\Debug\net6.0\FlexibleArrayMethod.runtimeconfig.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FlexibleArrayMethod\FlexibleArrayMethod\bin\Debug\net6.0\FlexibleArrayMethod.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FlexibleArrayMethod\FlexibleArrayMethod\bin\Debug\net6.0\FlexibleArrayMethod.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FlexibleArrayMethod\FlexibleArrayMethod\obj\Debug\net6.0\FlexibleArrayMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FlexibleArrayMethod\FlexibleArrayMethod\obj\Debug\net6.0\FlexibleArrayMethod.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FlexibleArrayMethod\FlexibleArrayMethod\obj\Debug\net6.0\FlexibleArrayMethod.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FlexibleArrayMethod\FlexibleArrayMethod\obj\Debug\net6.0\FlexibleArrayMethod.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FlexibleArrayMethod\FlexibleArrayMethod\obj\Debug\net6.0\FlexibleArrayMethod.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FlexibleArrayMethod\FlexibleArrayMethod\obj\Debug\net6.0\refint\FlexibleArrayMethod.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FlexibleArrayMethod\FlexibleArrayMethod\obj\Debug\net6.0\FlexibleArrayMethod.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FlexibleArrayMethod\FlexibleArrayMethod\obj\Debug\net6.0\FlexibleArrayMethod.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FlexibleArrayMethod\FlexibleArrayMethod\obj\Debug\net6.0\ref\FlexibleArrayMethod.dll
