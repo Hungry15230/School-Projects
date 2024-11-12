@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FineForOverdueBooks\FineForOverdueBooks\bin\Debug\net6.0\FineForOverdueBooks.exe
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FineForOverdueBooks\FineForOverdueBooks\bin\Debug\net6.0\FineForOverdueBooks.deps.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FineForOverdueBooks\FineForOverdueBooks\bin\Debug\net6.0\FineForOverdueBooks.runtimeconfig.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FineForOverdueBooks\FineForOverdueBooks\bin\Debug\net6.0\FineForOverdueBooks.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FineForOverdueBooks\FineForOverdueBooks\bin\Debug\net6.0\FineForOverdueBooks.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\net6.0\FineForOverdueBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\net6.0\FineForOverdueBooks.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\net6.0\FineForOverdueBooks.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\net6.0\FineForOverdueBooks.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\net6.0\FineForOverdueBooks.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\net6.0\refint\FineForOverdueBooks.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\net6.0\FineForOverdueBooks.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\net6.0\FineForOverdueBooks.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-7\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\net6.0\ref\FineForOverdueBooks.dll
