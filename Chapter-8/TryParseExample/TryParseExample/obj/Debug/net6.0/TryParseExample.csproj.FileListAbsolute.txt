@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TryParseExample\TryParseExample\bin\Debug\net6.0\TryParseExample.exe
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TryParseExample\TryParseExample\bin\Debug\net6.0\TryParseExample.deps.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TryParseExample\TryParseExample\bin\Debug\net6.0\TryParseExample.runtimeconfig.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TryParseExample\TryParseExample\bin\Debug\net6.0\TryParseExample.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TryParseExample\TryParseExample\bin\Debug\net6.0\TryParseExample.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TryParseExample\TryParseExample\obj\Debug\net6.0\TryParseExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TryParseExample\TryParseExample\obj\Debug\net6.0\TryParseExample.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TryParseExample\TryParseExample\obj\Debug\net6.0\TryParseExample.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TryParseExample\TryParseExample\obj\Debug\net6.0\TryParseExample.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TryParseExample\TryParseExample\obj\Debug\net6.0\TryParseExample.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TryParseExample\TryParseExample\obj\Debug\net6.0\refint\TryParseExample.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TryParseExample\TryParseExample\obj\Debug\net6.0\TryParseExample.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TryParseExample\TryParseExample\obj\Debug\net6.0\TryParseExample.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TryParseExample\TryParseExample\obj\Debug\net6.0\ref\TryParseExample.dll
