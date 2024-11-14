@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\MethodTesting\MethodTesting\bin\Debug\net6.0\MethodTesting.exe
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\MethodTesting\MethodTesting\bin\Debug\net6.0\MethodTesting.deps.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\MethodTesting\MethodTesting\bin\Debug\net6.0\MethodTesting.runtimeconfig.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\MethodTesting\MethodTesting\bin\Debug\net6.0\MethodTesting.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\MethodTesting\MethodTesting\bin\Debug\net6.0\MethodTesting.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\MethodTesting\MethodTesting\obj\Debug\net6.0\MethodTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\MethodTesting\MethodTesting\obj\Debug\net6.0\MethodTesting.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\MethodTesting\MethodTesting\obj\Debug\net6.0\MethodTesting.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\MethodTesting\MethodTesting\obj\Debug\net6.0\MethodTesting.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\MethodTesting\MethodTesting\obj\Debug\net6.0\MethodTesting.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\MethodTesting\MethodTesting\obj\Debug\net6.0\refint\MethodTesting.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\MethodTesting\MethodTesting\obj\Debug\net6.0\MethodTesting.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\MethodTesting\MethodTesting\obj\Debug\net6.0\MethodTesting.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\MethodTesting\MethodTesting\obj\Debug\net6.0\ref\MethodTesting.dll
