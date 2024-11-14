@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\ReturnRefDemo\ReturnRefDemo\bin\Debug\net6.0\ReturnRefDemo.exe
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\ReturnRefDemo\ReturnRefDemo\bin\Debug\net6.0\ReturnRefDemo.deps.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\ReturnRefDemo\ReturnRefDemo\bin\Debug\net6.0\ReturnRefDemo.runtimeconfig.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\ReturnRefDemo\ReturnRefDemo\bin\Debug\net6.0\ReturnRefDemo.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\ReturnRefDemo\ReturnRefDemo\bin\Debug\net6.0\ReturnRefDemo.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\ReturnRefDemo\ReturnRefDemo\obj\Debug\net6.0\ReturnRefDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\ReturnRefDemo\ReturnRefDemo\obj\Debug\net6.0\ReturnRefDemo.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\ReturnRefDemo\ReturnRefDemo\obj\Debug\net6.0\ReturnRefDemo.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\ReturnRefDemo\ReturnRefDemo\obj\Debug\net6.0\ReturnRefDemo.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\ReturnRefDemo\ReturnRefDemo\obj\Debug\net6.0\ReturnRefDemo.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\ReturnRefDemo\ReturnRefDemo\obj\Debug\net6.0\refint\ReturnRefDemo.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\ReturnRefDemo\ReturnRefDemo\obj\Debug\net6.0\ReturnRefDemo.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\ReturnRefDemo\ReturnRefDemo\obj\Debug\net6.0\ReturnRefDemo.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\ReturnRefDemo\ReturnRefDemo\obj\Debug\net6.0\ref\ReturnRefDemo.dll
