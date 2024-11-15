@@ -23,7 +23,8 @@
                     if (salespersonInitial == 'D') { dSales += currentSale; allSales += currentSale; }
                     else if (salespersonInitial == 'E') { eSales += currentSale; allSales += currentSale; }
                     else if (salespersonInitial == 'F') { fSales += currentSale; allSales += currentSale; }
-                } else
+                }
+                else
                 {
                     Console.WriteLine("Invalid");
                 }
