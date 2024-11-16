@@ -53,7 +53,7 @@
                 GameLoop();
                 Console.WriteLine("You failed. Play again? (y/n)");
                 string userInput = Console.ReadLine() ?? "";
-                if (userInput == "y") { GameLoop(); }
+                if (userInput == "y") {}
                 else { break; }
             }
 
