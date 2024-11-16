@@ -1,0 +1,15 @@
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Reverse3\Reverse3\bin\Debug\net6.0\Reverse3.exe
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Reverse3\Reverse3\bin\Debug\net6.0\Reverse3.deps.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Reverse3\Reverse3\bin\Debug\net6.0\Reverse3.runtimeconfig.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Reverse3\Reverse3\bin\Debug\net6.0\Reverse3.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Reverse3\Reverse3\bin\Debug\net6.0\Reverse3.pdb
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Reverse3\Reverse3\obj\Debug\net6.0\Reverse3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Reverse3\Reverse3\obj\Debug\net6.0\Reverse3.AssemblyInfoInputs.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Reverse3\Reverse3\obj\Debug\net6.0\Reverse3.AssemblyInfo.cs
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Reverse3\Reverse3\obj\Debug\net6.0\Reverse3.csproj.CoreCompileInputs.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Reverse3\Reverse3\obj\Debug\net6.0\Reverse3.sourcelink.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Reverse3\Reverse3\obj\Debug\net6.0\Reverse3.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Reverse3\Reverse3\obj\Debug\net6.0\refint\Reverse3.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Reverse3\Reverse3\obj\Debug\net6.0\Reverse3.pdb
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Reverse3\Reverse3\obj\Debug\net6.0\Reverse3.genruntimeconfig.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Reverse3\Reverse3\obj\Debug\net6.0\ref\Reverse3.dll
