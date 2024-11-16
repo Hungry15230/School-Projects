@@ -1,0 +1,15 @@
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Flights\Flights\bin\Debug\net6.0\Flights.exe
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Flights\Flights\bin\Debug\net6.0\Flights.deps.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Flights\Flights\bin\Debug\net6.0\Flights.runtimeconfig.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Flights\Flights\bin\Debug\net6.0\Flights.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Flights\Flights\bin\Debug\net6.0\Flights.pdb
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Flights\Flights\obj\Debug\net6.0\Flights.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Flights\Flights\obj\Debug\net6.0\Flights.AssemblyInfoInputs.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Flights\Flights\obj\Debug\net6.0\Flights.AssemblyInfo.cs
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Flights\Flights\obj\Debug\net6.0\Flights.csproj.CoreCompileInputs.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Flights\Flights\obj\Debug\net6.0\Flights.sourcelink.json
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Flights\Flights\obj\Debug\net6.0\Flights.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Flights\Flights\obj\Debug\net6.0\refint\Flights.dll
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Flights\Flights\obj\Debug\net6.0\Flights.pdb
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Flights\Flights\obj\Debug\net6.0\Flights.genruntimeconfig.cache
+C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Flights\Flights\obj\Debug\net6.0\ref\Flights.dll
