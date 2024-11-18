@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\DisplayMultiplicationTable\DisplayMultiplicationTable\bin\Debug\net6.0\DisplayMultiplicationTable.exe
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\DisplayMultiplicationTable\DisplayMultiplicationTable\bin\Debug\net6.0\DisplayMultiplicationTable.deps.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\DisplayMultiplicationTable\DisplayMultiplicationTable\bin\Debug\net6.0\DisplayMultiplicationTable.runtimeconfig.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\DisplayMultiplicationTable\DisplayMultiplicationTable\bin\Debug\net6.0\DisplayMultiplicationTable.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\DisplayMultiplicationTable\DisplayMultiplicationTable\bin\Debug\net6.0\DisplayMultiplicationTable.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\DisplayMultiplicationTable\DisplayMultiplicationTable\obj\Debug\net6.0\DisplayMultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\DisplayMultiplicationTable\DisplayMultiplicationTable\obj\Debug\net6.0\DisplayMultiplicationTable.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\DisplayMultiplicationTable\DisplayMultiplicationTable\obj\Debug\net6.0\DisplayMultiplicationTable.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\DisplayMultiplicationTable\DisplayMultiplicationTable\obj\Debug\net6.0\DisplayMultiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\DisplayMultiplicationTable\DisplayMultiplicationTable\obj\Debug\net6.0\DisplayMultiplicationTable.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\DisplayMultiplicationTable\DisplayMultiplicationTable\obj\Debug\net6.0\refint\DisplayMultiplicationTable.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\DisplayMultiplicationTable\DisplayMultiplicationTable\obj\Debug\net6.0\DisplayMultiplicationTable.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\DisplayMultiplicationTable\DisplayMultiplicationTable\obj\Debug\net6.0\DisplayMultiplicationTable.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\DisplayMultiplicationTable\DisplayMultiplicationTable\obj\Debug\net6.0\ref\DisplayMultiplicationTable.dll
