@@ -13,3 +13,17 @@ C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Auction\Auction\obj
 C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Auction\Auction\obj\Debug\net6.0\Auction.pdb
 C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Auction\Auction\obj\Debug\net6.0\Auction.genruntimeconfig.cache
 C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\Auction\Auction\obj\Debug\net6.0\ref\Auction.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Auction\Auction\bin\Debug\net6.0\Auction.exe
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Auction\Auction\bin\Debug\net6.0\Auction.deps.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Auction\Auction\bin\Debug\net6.0\Auction.runtimeconfig.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Auction\Auction\bin\Debug\net6.0\Auction.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Auction\Auction\bin\Debug\net6.0\Auction.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Auction\Auction\obj\Debug\net6.0\Auction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Auction\Auction\obj\Debug\net6.0\Auction.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Auction\Auction\obj\Debug\net6.0\Auction.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Auction\Auction\obj\Debug\net6.0\Auction.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Auction\Auction\obj\Debug\net6.0\Auction.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Auction\Auction\obj\Debug\net6.0\refint\Auction.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Auction\Auction\obj\Debug\net6.0\Auction.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Auction\Auction\obj\Debug\net6.0\Auction.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Auction\Auction\obj\Debug\net6.0\ref\Auction.dll
