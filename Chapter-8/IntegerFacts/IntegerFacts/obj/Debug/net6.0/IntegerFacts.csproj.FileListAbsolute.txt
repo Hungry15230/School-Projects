@@ -13,3 +13,17 @@ C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\IntegerFacts\Intege
 C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\IntegerFacts\IntegerFacts\obj\Debug\net6.0\IntegerFacts.pdb
 C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\IntegerFacts\IntegerFacts\obj\Debug\net6.0\IntegerFacts.genruntimeconfig.cache
 C:\Users\hungr\source\repos\Github\School-Projects\Chapter-8\IntegerFacts\IntegerFacts\obj\Debug\net6.0\ref\IntegerFacts.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\IntegerFacts\IntegerFacts\bin\Debug\net6.0\IntegerFacts.exe
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\IntegerFacts\IntegerFacts\bin\Debug\net6.0\IntegerFacts.deps.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\IntegerFacts\IntegerFacts\bin\Debug\net6.0\IntegerFacts.runtimeconfig.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\IntegerFacts\IntegerFacts\bin\Debug\net6.0\IntegerFacts.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\IntegerFacts\IntegerFacts\bin\Debug\net6.0\IntegerFacts.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\IntegerFacts\IntegerFacts\obj\Debug\net6.0\IntegerFacts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\IntegerFacts\IntegerFacts\obj\Debug\net6.0\IntegerFacts.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\IntegerFacts\IntegerFacts\obj\Debug\net6.0\IntegerFacts.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\IntegerFacts\IntegerFacts\obj\Debug\net6.0\IntegerFacts.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\IntegerFacts\IntegerFacts\obj\Debug\net6.0\IntegerFacts.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\IntegerFacts\IntegerFacts\obj\Debug\net6.0\refint\IntegerFacts.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\IntegerFacts\IntegerFacts\obj\Debug\net6.0\IntegerFacts.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\IntegerFacts\IntegerFacts\obj\Debug\net6.0\IntegerFacts.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\IntegerFacts\IntegerFacts\obj\Debug\net6.0\ref\IntegerFacts.dll
