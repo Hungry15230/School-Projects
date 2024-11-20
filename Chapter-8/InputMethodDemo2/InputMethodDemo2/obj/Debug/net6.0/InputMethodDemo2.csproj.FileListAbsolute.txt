@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\InputMethodDemo2\InputMethodDemo2\bin\Debug\net6.0\InputMethodDemo2.exe
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\InputMethodDemo2\InputMethodDemo2\bin\Debug\net6.0\InputMethodDemo2.deps.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\InputMethodDemo2\InputMethodDemo2\bin\Debug\net6.0\InputMethodDemo2.runtimeconfig.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\InputMethodDemo2\InputMethodDemo2\bin\Debug\net6.0\InputMethodDemo2.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\InputMethodDemo2\InputMethodDemo2\bin\Debug\net6.0\InputMethodDemo2.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\InputMethodDemo2\InputMethodDemo2\obj\Debug\net6.0\InputMethodDemo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\InputMethodDemo2\InputMethodDemo2\obj\Debug\net6.0\InputMethodDemo2.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\InputMethodDemo2\InputMethodDemo2\obj\Debug\net6.0\InputMethodDemo2.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\InputMethodDemo2\InputMethodDemo2\obj\Debug\net6.0\InputMethodDemo2.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\InputMethodDemo2\InputMethodDemo2\obj\Debug\net6.0\InputMethodDemo2.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\InputMethodDemo2\InputMethodDemo2\obj\Debug\net6.0\refint\InputMethodDemo2.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\InputMethodDemo2\InputMethodDemo2\obj\Debug\net6.0\InputMethodDemo2.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\InputMethodDemo2\InputMethodDemo2\obj\Debug\net6.0\InputMethodDemo2.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\InputMethodDemo2\InputMethodDemo2\obj\Debug\net6.0\ref\InputMethodDemo2.dll
