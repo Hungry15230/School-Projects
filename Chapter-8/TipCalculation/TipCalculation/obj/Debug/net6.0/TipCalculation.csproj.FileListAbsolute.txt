@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TipCalculation\TipCalculation\bin\Debug\net6.0\TipCalculation.exe
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TipCalculation\TipCalculation\bin\Debug\net6.0\TipCalculation.deps.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TipCalculation\TipCalculation\bin\Debug\net6.0\TipCalculation.runtimeconfig.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TipCalculation\TipCalculation\bin\Debug\net6.0\TipCalculation.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TipCalculation\TipCalculation\bin\Debug\net6.0\TipCalculation.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TipCalculation\TipCalculation\obj\Debug\net6.0\TipCalculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TipCalculation\TipCalculation\obj\Debug\net6.0\TipCalculation.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TipCalculation\TipCalculation\obj\Debug\net6.0\TipCalculation.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TipCalculation\TipCalculation\obj\Debug\net6.0\TipCalculation.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TipCalculation\TipCalculation\obj\Debug\net6.0\TipCalculation.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TipCalculation\TipCalculation\obj\Debug\net6.0\refint\TipCalculation.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TipCalculation\TipCalculation\obj\Debug\net6.0\TipCalculation.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TipCalculation\TipCalculation\obj\Debug\net6.0\TipCalculation.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\TipCalculation\TipCalculation\obj\Debug\net6.0\ref\TipCalculation.dll
