@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            for (int j = 1; j <= 10000; j++)
+            for (int j = 1; j <= 100_000; j++)
             {
                 int numToEval = j;
                 int sum = 0;
