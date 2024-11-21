@@ -1,5 +1,5 @@
 is_global = true
-build_property.TargetFramework = net8.0
+build_property.TargetFramework = net6.0
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = 
 build_property.ProjectTypeGuids = 
@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Perfect
-build_property.ProjectDir = C:\Users\lweber\Source\Repos\Hungry15230\School-Projects\Chapter-5\Perfect\Perfect\
+build_property.ProjectDir = C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\Perfect\Perfect\
