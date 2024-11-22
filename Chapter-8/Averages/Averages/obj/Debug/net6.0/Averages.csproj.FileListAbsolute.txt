@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Averages\Averages\bin\Debug\net6.0\Averages.exe
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Averages\Averages\bin\Debug\net6.0\Averages.deps.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Averages\Averages\bin\Debug\net6.0\Averages.runtimeconfig.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Averages\Averages\bin\Debug\net6.0\Averages.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Averages\Averages\bin\Debug\net6.0\Averages.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Averages\Averages\obj\Debug\net6.0\Averages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Averages\Averages\obj\Debug\net6.0\Averages.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Averages\Averages\obj\Debug\net6.0\Averages.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Averages\Averages\obj\Debug\net6.0\Averages.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Averages\Averages\obj\Debug\net6.0\Averages.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Averages\Averages\obj\Debug\net6.0\refint\Averages.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Averages\Averages\obj\Debug\net6.0\Averages.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Averages\Averages\obj\Debug\net6.0\Averages.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Averages\Averages\obj\Debug\net6.0\ref\Averages.dll
