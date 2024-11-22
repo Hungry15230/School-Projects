@@ -4,11 +4,12 @@
     {
         static void Main(string[] args)
         {
-            for (int j = 1; j <= 100_000; j++)
+            for (int j = 1; j <= 100; j++)
             {
                 int numToEval = j;
                 int sum = 0;
-                for (int i = 1; i < numToEval; i++)
+                Console.WriteLine();
+                for (int i = 1; i < (Convert.ToDouble(numToEval) / 2); i++)
                 {
                     if (numToEval % i == 0)
                     {
