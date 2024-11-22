@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\WebAddress\WebAddress\bin\Debug\net6.0\WebAddress.exe
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\WebAddress\WebAddress\bin\Debug\net6.0\WebAddress.deps.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\WebAddress\WebAddress\bin\Debug\net6.0\WebAddress.runtimeconfig.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\WebAddress\WebAddress\bin\Debug\net6.0\WebAddress.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\WebAddress\WebAddress\bin\Debug\net6.0\WebAddress.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\WebAddress\WebAddress\obj\Debug\net6.0\WebAddress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\WebAddress\WebAddress\obj\Debug\net6.0\WebAddress.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\WebAddress\WebAddress\obj\Debug\net6.0\WebAddress.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\WebAddress\WebAddress\obj\Debug\net6.0\WebAddress.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\WebAddress\WebAddress\obj\Debug\net6.0\WebAddress.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\WebAddress\WebAddress\obj\Debug\net6.0\refint\WebAddress.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\WebAddress\WebAddress\obj\Debug\net6.0\WebAddress.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\WebAddress\WebAddress\obj\Debug\net6.0\WebAddress.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-5\WebAddress\WebAddress\obj\Debug\net6.0\ref\WebAddress.dll
