@@ -1,0 +1,15 @@
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Movie\Movie\bin\Debug\net8.0\Movie.exe
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Movie\Movie\bin\Debug\net8.0\Movie.deps.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Movie\Movie\bin\Debug\net8.0\Movie.runtimeconfig.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Movie\Movie\bin\Debug\net8.0\Movie.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Movie\Movie\bin\Debug\net8.0\Movie.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Movie\Movie\obj\Debug\net8.0\Movie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Movie\Movie\obj\Debug\net8.0\Movie.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Movie\Movie\obj\Debug\net8.0\Movie.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Movie\Movie\obj\Debug\net8.0\Movie.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Movie\Movie\obj\Debug\net8.0\Movie.sourcelink.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Movie\Movie\obj\Debug\net8.0\Movie.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Movie\Movie\obj\Debug\net8.0\refint\Movie.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Movie\Movie\obj\Debug\net8.0\Movie.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Movie\Movie\obj\Debug\net8.0\Movie.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\Movie\Movie\obj\Debug\net8.0\ref\Movie.dll
