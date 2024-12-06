@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WarCardGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be9fda96576653e750effac40e6884b9a8a9015a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d36fa7dfa1a0b2c1b58eaba43c458a74ddd3fb28")]
 [assembly: System.Reflection.AssemblyProductAttribute("WarCardGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WarCardGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

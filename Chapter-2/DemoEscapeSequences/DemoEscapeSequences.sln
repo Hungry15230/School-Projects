@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32802.440
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoEscapeSequences", "DemoEscapeSequences\DemoEscapeSequences.csproj", "{DF24AB4C-B22D-44AD-9F0F-D732248C2DCA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoEscapeSequences", "DemoEscapeSequences\DemoEscapeSequences.csproj", "{9F1E7BAD-68F5-46F8-A925-D9FE047FA52C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DF24AB4C-B22D-44AD-9F0F-D732248C2DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DF24AB4C-B22D-44AD-9F0F-D732248C2DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DF24AB4C-B22D-44AD-9F0F-D732248C2DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DF24AB4C-B22D-44AD-9F0F-D732248C2DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F1E7BAD-68F5-46F8-A925-D9FE047FA52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F1E7BAD-68F5-46F8-A925-D9FE047FA52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F1E7BAD-68F5-46F8-A925-D9FE047FA52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F1E7BAD-68F5-46F8-A925-D9FE047FA52C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {AA39F082-0EB4-4D3C-B75C-716F24C0DF96}
 	EndGlobalSection
 EndGlobal

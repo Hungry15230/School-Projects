@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DeliveryCharges")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36755738e7041a8aa7a93bf985b72b3a8d40a520")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d36fa7dfa1a0b2c1b58eaba43c458a74ddd3fb28")]
 [assembly: System.Reflection.AssemblyProductAttribute("DeliveryCharges")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DeliveryCharges")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

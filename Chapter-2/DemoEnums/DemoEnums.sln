@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32802.440
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoEnums", "DemoEnums\DemoEnums.csproj", "{52497AF0-3C0A-4DEB-87F1-C05C3728747E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoEnums", "DemoEnums\DemoEnums.csproj", "{07E37CA5-359F-41AB-BE9B-8D578C0ABABA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{52497AF0-3C0A-4DEB-87F1-C05C3728747E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{52497AF0-3C0A-4DEB-87F1-C05C3728747E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{52497AF0-3C0A-4DEB-87F1-C05C3728747E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{52497AF0-3C0A-4DEB-87F1-C05C3728747E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07E37CA5-359F-41AB-BE9B-8D578C0ABABA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07E37CA5-359F-41AB-BE9B-8D578C0ABABA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07E37CA5-359F-41AB-BE9B-8D578C0ABABA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07E37CA5-359F-41AB-BE9B-8D578C0ABABA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {75FA3720-3EF2-4623-888A-EC88E0942B4E}
 	EndGlobalSection
 EndGlobal

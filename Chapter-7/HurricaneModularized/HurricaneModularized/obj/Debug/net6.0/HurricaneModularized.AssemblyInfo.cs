@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HurricaneModularized")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d36fa7dfa1a0b2c1b58eaba43c458a74ddd3fb28")]
 [assembly: System.Reflection.AssemblyProductAttribute("HurricaneModularized")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HurricaneModularized")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

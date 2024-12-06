@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TypingGrades")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+802e0b0d005100f9e17a279c02d2b2cbdb0bf083")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d36fa7dfa1a0b2c1b58eaba43c458a74ddd3fb28")]
 [assembly: System.Reflection.AssemblyProductAttribute("TypingGrades")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TypingGrades")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
