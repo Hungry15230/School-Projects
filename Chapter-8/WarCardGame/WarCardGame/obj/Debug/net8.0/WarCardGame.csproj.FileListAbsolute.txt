@@ -1,0 +1,15 @@
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\WarCardGame\WarCardGame\bin\Debug\net8.0\WarCardGame.exe
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\WarCardGame\WarCardGame\bin\Debug\net8.0\WarCardGame.deps.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\WarCardGame\WarCardGame\bin\Debug\net8.0\WarCardGame.runtimeconfig.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\WarCardGame\WarCardGame\bin\Debug\net8.0\WarCardGame.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\WarCardGame\WarCardGame\bin\Debug\net8.0\WarCardGame.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\WarCardGame\WarCardGame\obj\Debug\net8.0\WarCardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\WarCardGame\WarCardGame\obj\Debug\net8.0\WarCardGame.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\WarCardGame\WarCardGame\obj\Debug\net8.0\WarCardGame.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\WarCardGame\WarCardGame\obj\Debug\net8.0\WarCardGame.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\WarCardGame\WarCardGame\obj\Debug\net8.0\WarCardGame.sourcelink.json
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\WarCardGame\WarCardGame\obj\Debug\net8.0\WarCardGame.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\WarCardGame\WarCardGame\obj\Debug\net8.0\refint\WarCardGame.dll
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\WarCardGame\WarCardGame\obj\Debug\net8.0\WarCardGame.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\WarCardGame\WarCardGame\obj\Debug\net8.0\WarCardGame.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Github\School-Projects\Chapter-8\WarCardGame\WarCardGame\obj\Debug\net8.0\ref\WarCardGame.dll
