@@ -43,14 +43,15 @@
             string input;
             while (GetInput(out input) && ParseAndExecute(input)) { }
         }
-
         static void Main(string[] args)
         {
+            // Greeting
             Console.WriteLine("Welcome to Little Cave Adventure.");
-
             while (true)
             {
+                // Main Loop
                 GameLoop();
+                // Exit handling
                 Console.WriteLine("You failed. Play again? (y/n)");
                 string userInput = Console.ReadLine() ?? "";
                 if (userInput == "y") {}
