@@ -1,0 +1,15 @@
+C:\Users\lweber\source\repos\Github\School-Projects\RateLawCalculator\RateLawCalculator\bin\Release\net8.0\RateLawCalculator.exe
+C:\Users\lweber\source\repos\Github\School-Projects\RateLawCalculator\RateLawCalculator\bin\Release\net8.0\RateLawCalculator.deps.json
+C:\Users\lweber\source\repos\Github\School-Projects\RateLawCalculator\RateLawCalculator\bin\Release\net8.0\RateLawCalculator.runtimeconfig.json
+C:\Users\lweber\source\repos\Github\School-Projects\RateLawCalculator\RateLawCalculator\bin\Release\net8.0\RateLawCalculator.dll
+C:\Users\lweber\source\repos\Github\School-Projects\RateLawCalculator\RateLawCalculator\bin\Release\net8.0\RateLawCalculator.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\RateLawCalculator\RateLawCalculator\obj\Release\net8.0\RateLawCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Github\School-Projects\RateLawCalculator\RateLawCalculator\obj\Release\net8.0\RateLawCalculator.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\RateLawCalculator\RateLawCalculator\obj\Release\net8.0\RateLawCalculator.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Github\School-Projects\RateLawCalculator\RateLawCalculator\obj\Release\net8.0\RateLawCalculator.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Github\School-Projects\RateLawCalculator\RateLawCalculator\obj\Release\net8.0\RateLawCalculator.sourcelink.json
+C:\Users\lweber\source\repos\Github\School-Projects\RateLawCalculator\RateLawCalculator\obj\Release\net8.0\RateLawCalculator.dll
+C:\Users\lweber\source\repos\Github\School-Projects\RateLawCalculator\RateLawCalculator\obj\Release\net8.0\refint\RateLawCalculator.dll
+C:\Users\lweber\source\repos\Github\School-Projects\RateLawCalculator\RateLawCalculator\obj\Release\net8.0\RateLawCalculator.pdb
+C:\Users\lweber\source\repos\Github\School-Projects\RateLawCalculator\RateLawCalculator\obj\Release\net8.0\RateLawCalculator.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Github\School-Projects\RateLawCalculator\RateLawCalculator\obj\Release\net8.0\ref\RateLawCalculator.dll

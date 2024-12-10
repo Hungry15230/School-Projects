@@ -55,13 +55,17 @@ namespace RateLawCalculator
             }
             Console.WriteLine($"Value of k: {k}");
             Console.WriteLine("----------");
+            Console.WriteLine();
         }
         static int GetOrder(double molarity1, double molarity2, double rate1, double rate2)
         {
+            int order = (int)Math.Round(Math.Log(rate1 / rate2, molarity1 / molarity2));
+            /*
             double molarityAverage = molarity1 / molarity2;
             double rateAverage = rate1 / rate2;
             double rawOrder = molarityAverage / rateAverage;
             int order = rawOrder > 1.4 ? 2 : 1;
+            */
             return order;
         }
         static double GetKValue(List<int> orders, List<double> molarities, double rate)

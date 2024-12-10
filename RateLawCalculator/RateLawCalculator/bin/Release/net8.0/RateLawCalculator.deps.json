@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RateLawCalculator/1.0.0": {
+        "runtime": {
+          "RateLawCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RateLawCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
