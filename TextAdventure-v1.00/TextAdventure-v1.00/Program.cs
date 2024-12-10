@@ -54,10 +54,9 @@
                 // Exit handling
                 Console.WriteLine("You failed. Play again? (y/n)");
                 string userInput = Console.ReadLine() ?? "";
-                if (userInput == "y") {}
+                if (userInput == "y") { }
                 else { break; }
             }
-
             Console.WriteLine("Bye!");
         }
     }
