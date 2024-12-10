@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lweber\\source\\repos\\Github\\School-Projects\\TextAdventure-v1.00\\TextAdventure-v1.00\\TextAdventure-v1.00.csproj": {}
+    "C:\\Users\\hungr\\source\\repos\\Github\\School-Projects\\TextAdventure-v1.00\\TextAdventure-v1.00\\TextAdventure-v1.00.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lweber\\source\\repos\\Github\\School-Projects\\TextAdventure-v1.00\\TextAdventure-v1.00\\TextAdventure-v1.00.csproj": {
+    "C:\\Users\\hungr\\source\\repos\\Github\\School-Projects\\TextAdventure-v1.00\\TextAdventure-v1.00\\TextAdventure-v1.00.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lweber\\source\\repos\\Github\\School-Projects\\TextAdventure-v1.00\\TextAdventure-v1.00\\TextAdventure-v1.00.csproj",
+        "projectUniqueName": "C:\\Users\\hungr\\source\\repos\\Github\\School-Projects\\TextAdventure-v1.00\\TextAdventure-v1.00\\TextAdventure-v1.00.csproj",
         "projectName": "TextAdventure-v1.00",
-        "projectPath": "C:\\Users\\lweber\\source\\repos\\Github\\School-Projects\\TextAdventure-v1.00\\TextAdventure-v1.00\\TextAdventure-v1.00.csproj",
-        "packagesPath": "C:\\Users\\lweber\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lweber\\source\\repos\\Github\\School-Projects\\TextAdventure-v1.00\\TextAdventure-v1.00\\obj\\",
+        "projectPath": "C:\\Users\\hungr\\source\\repos\\Github\\School-Projects\\TextAdventure-v1.00\\TextAdventure-v1.00\\TextAdventure-v1.00.csproj",
+        "packagesPath": "C:\\Users\\hungr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hungr\\source\\repos\\Github\\School-Projects\\TextAdventure-v1.00\\TextAdventure-v1.00\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\lweber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hungr\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
