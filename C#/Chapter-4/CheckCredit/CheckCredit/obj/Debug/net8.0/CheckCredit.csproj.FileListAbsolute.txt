@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Chapter 4\CheckCredit\CheckCredit\bin\Debug\net8.0\CheckCredit.exe
+C:\Users\lweber\source\repos\Chapter 4\CheckCredit\CheckCredit\bin\Debug\net8.0\CheckCredit.deps.json
+C:\Users\lweber\source\repos\Chapter 4\CheckCredit\CheckCredit\bin\Debug\net8.0\CheckCredit.runtimeconfig.json
+C:\Users\lweber\source\repos\Chapter 4\CheckCredit\CheckCredit\bin\Debug\net8.0\CheckCredit.dll
+C:\Users\lweber\source\repos\Chapter 4\CheckCredit\CheckCredit\bin\Debug\net8.0\CheckCredit.pdb
+C:\Users\lweber\source\repos\Chapter 4\CheckCredit\CheckCredit\obj\Debug\net8.0\CheckCredit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Chapter 4\CheckCredit\CheckCredit\obj\Debug\net8.0\CheckCredit.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Chapter 4\CheckCredit\CheckCredit\obj\Debug\net8.0\CheckCredit.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Chapter 4\CheckCredit\CheckCredit\obj\Debug\net8.0\CheckCredit.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Chapter 4\CheckCredit\CheckCredit\obj\Debug\net8.0\CheckCredit.dll
+C:\Users\lweber\source\repos\Chapter 4\CheckCredit\CheckCredit\obj\Debug\net8.0\refint\CheckCredit.dll
+C:\Users\lweber\source\repos\Chapter 4\CheckCredit\CheckCredit\obj\Debug\net8.0\CheckCredit.pdb
+C:\Users\lweber\source\repos\Chapter 4\CheckCredit\CheckCredit\obj\Debug\net8.0\CheckCredit.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Chapter 4\CheckCredit\CheckCredit\obj\Debug\net8.0\ref\CheckCredit.dll

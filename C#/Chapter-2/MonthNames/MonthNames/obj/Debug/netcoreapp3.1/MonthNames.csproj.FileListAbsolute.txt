@@ -1,0 +1,13 @@
+C:\Users\lweber\source\repos\Chapter 2\MonthNames\MonthNames\bin\Debug\netcoreapp3.1\MonthNames.exe
+C:\Users\lweber\source\repos\Chapter 2\MonthNames\MonthNames\bin\Debug\netcoreapp3.1\MonthNames.deps.json
+C:\Users\lweber\source\repos\Chapter 2\MonthNames\MonthNames\bin\Debug\netcoreapp3.1\MonthNames.runtimeconfig.json
+C:\Users\lweber\source\repos\Chapter 2\MonthNames\MonthNames\bin\Debug\netcoreapp3.1\MonthNames.runtimeconfig.dev.json
+C:\Users\lweber\source\repos\Chapter 2\MonthNames\MonthNames\bin\Debug\netcoreapp3.1\MonthNames.dll
+C:\Users\lweber\source\repos\Chapter 2\MonthNames\MonthNames\bin\Debug\netcoreapp3.1\MonthNames.pdb
+C:\Users\lweber\source\repos\Chapter 2\MonthNames\MonthNames\obj\Debug\netcoreapp3.1\MonthNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Chapter 2\MonthNames\MonthNames\obj\Debug\netcoreapp3.1\MonthNames.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Chapter 2\MonthNames\MonthNames\obj\Debug\netcoreapp3.1\MonthNames.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Chapter 2\MonthNames\MonthNames\obj\Debug\netcoreapp3.1\MonthNames.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Chapter 2\MonthNames\MonthNames\obj\Debug\netcoreapp3.1\MonthNames.dll
+C:\Users\lweber\source\repos\Chapter 2\MonthNames\MonthNames\obj\Debug\netcoreapp3.1\MonthNames.pdb
+C:\Users\lweber\source\repos\Chapter 2\MonthNames\MonthNames\obj\Debug\netcoreapp3.1\MonthNames.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\lweber\source\repos\InteractiveSalesTax\InteractiveSalesTax\bin\Debug\netcoreapp3.1\InteractiveSalesTax.exe
+C:\Users\lweber\source\repos\InteractiveSalesTax\InteractiveSalesTax\bin\Debug\netcoreapp3.1\InteractiveSalesTax.deps.json
+C:\Users\lweber\source\repos\InteractiveSalesTax\InteractiveSalesTax\bin\Debug\netcoreapp3.1\InteractiveSalesTax.runtimeconfig.json
+C:\Users\lweber\source\repos\InteractiveSalesTax\InteractiveSalesTax\bin\Debug\netcoreapp3.1\InteractiveSalesTax.runtimeconfig.dev.json
+C:\Users\lweber\source\repos\InteractiveSalesTax\InteractiveSalesTax\bin\Debug\netcoreapp3.1\InteractiveSalesTax.dll
+C:\Users\lweber\source\repos\InteractiveSalesTax\InteractiveSalesTax\bin\Debug\netcoreapp3.1\InteractiveSalesTax.pdb
+C:\Users\lweber\source\repos\InteractiveSalesTax\InteractiveSalesTax\obj\Debug\netcoreapp3.1\InteractiveSalesTax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\InteractiveSalesTax\InteractiveSalesTax\obj\Debug\netcoreapp3.1\InteractiveSalesTax.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\InteractiveSalesTax\InteractiveSalesTax\obj\Debug\netcoreapp3.1\InteractiveSalesTax.AssemblyInfo.cs
+C:\Users\lweber\source\repos\InteractiveSalesTax\InteractiveSalesTax\obj\Debug\netcoreapp3.1\InteractiveSalesTax.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\InteractiveSalesTax\InteractiveSalesTax\obj\Debug\netcoreapp3.1\InteractiveSalesTax.dll
+C:\Users\lweber\source\repos\InteractiveSalesTax\InteractiveSalesTax\obj\Debug\netcoreapp3.1\InteractiveSalesTax.pdb
+C:\Users\lweber\source\repos\InteractiveSalesTax\InteractiveSalesTax\obj\Debug\netcoreapp3.1\InteractiveSalesTax.genruntimeconfig.cache

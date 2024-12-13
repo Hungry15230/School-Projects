@@ -1,0 +1,14 @@
+C:\Users\lweber\source\repos\Chapter 4\Lottery\Lottery\bin\Debug\net8.0\Lottery.exe
+C:\Users\lweber\source\repos\Chapter 4\Lottery\Lottery\bin\Debug\net8.0\Lottery.deps.json
+C:\Users\lweber\source\repos\Chapter 4\Lottery\Lottery\bin\Debug\net8.0\Lottery.runtimeconfig.json
+C:\Users\lweber\source\repos\Chapter 4\Lottery\Lottery\bin\Debug\net8.0\Lottery.dll
+C:\Users\lweber\source\repos\Chapter 4\Lottery\Lottery\bin\Debug\net8.0\Lottery.pdb
+C:\Users\lweber\source\repos\Chapter 4\Lottery\Lottery\obj\Debug\net8.0\Lottery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Chapter 4\Lottery\Lottery\obj\Debug\net8.0\Lottery.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Chapter 4\Lottery\Lottery\obj\Debug\net8.0\Lottery.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Chapter 4\Lottery\Lottery\obj\Debug\net8.0\Lottery.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Chapter 4\Lottery\Lottery\obj\Debug\net8.0\Lottery.dll
+C:\Users\lweber\source\repos\Chapter 4\Lottery\Lottery\obj\Debug\net8.0\refint\Lottery.dll
+C:\Users\lweber\source\repos\Chapter 4\Lottery\Lottery\obj\Debug\net8.0\Lottery.pdb
+C:\Users\lweber\source\repos\Chapter 4\Lottery\Lottery\obj\Debug\net8.0\Lottery.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Chapter 4\Lottery\Lottery\obj\Debug\net8.0\ref\Lottery.dll

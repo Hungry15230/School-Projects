@@ -1,0 +1,16 @@
+C:\Users\lweber\source\repos\Chapter 3\HelloVisualWorld\HelloVisualWorld\bin\Debug\net8.0-windows\HelloVisualWorld.exe
+C:\Users\lweber\source\repos\Chapter 3\HelloVisualWorld\HelloVisualWorld\bin\Debug\net8.0-windows\HelloVisualWorld.deps.json
+C:\Users\lweber\source\repos\Chapter 3\HelloVisualWorld\HelloVisualWorld\bin\Debug\net8.0-windows\HelloVisualWorld.runtimeconfig.json
+C:\Users\lweber\source\repos\Chapter 3\HelloVisualWorld\HelloVisualWorld\bin\Debug\net8.0-windows\HelloVisualWorld.dll
+C:\Users\lweber\source\repos\Chapter 3\HelloVisualWorld\HelloVisualWorld\bin\Debug\net8.0-windows\HelloVisualWorld.pdb
+C:\Users\lweber\source\repos\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\net8.0-windows\HelloVisualWorld.HelloForm.resources
+C:\Users\lweber\source\repos\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\net8.0-windows\HelloVisualWorld.csproj.GenerateResource.cache
+C:\Users\lweber\source\repos\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\net8.0-windows\HelloVisualWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\net8.0-windows\HelloVisualWorld.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\net8.0-windows\HelloVisualWorld.AssemblyInfo.cs
+C:\Users\lweber\source\repos\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\net8.0-windows\HelloVisualWorld.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\net8.0-windows\HelloVisualWorld.dll
+C:\Users\lweber\source\repos\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\net8.0-windows\refint\HelloVisualWorld.dll
+C:\Users\lweber\source\repos\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\net8.0-windows\HelloVisualWorld.pdb
+C:\Users\lweber\source\repos\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\net8.0-windows\HelloVisualWorld.genruntimeconfig.cache
+C:\Users\lweber\source\repos\Chapter 3\HelloVisualWorld\HelloVisualWorld\obj\Debug\net8.0-windows\ref\HelloVisualWorld.dll

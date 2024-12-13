@@ -1,0 +1,13 @@
+C:\Users\lweber\source\repos\ProjectedRaisesInteractive\ProjectedRaisesInteractive\bin\Debug\netcoreapp3.1\ProjectedRaisesInteractive.exe
+C:\Users\lweber\source\repos\ProjectedRaisesInteractive\ProjectedRaisesInteractive\bin\Debug\netcoreapp3.1\ProjectedRaisesInteractive.deps.json
+C:\Users\lweber\source\repos\ProjectedRaisesInteractive\ProjectedRaisesInteractive\bin\Debug\netcoreapp3.1\ProjectedRaisesInteractive.runtimeconfig.json
+C:\Users\lweber\source\repos\ProjectedRaisesInteractive\ProjectedRaisesInteractive\bin\Debug\netcoreapp3.1\ProjectedRaisesInteractive.runtimeconfig.dev.json
+C:\Users\lweber\source\repos\ProjectedRaisesInteractive\ProjectedRaisesInteractive\bin\Debug\netcoreapp3.1\ProjectedRaisesInteractive.dll
+C:\Users\lweber\source\repos\ProjectedRaisesInteractive\ProjectedRaisesInteractive\bin\Debug\netcoreapp3.1\ProjectedRaisesInteractive.pdb
+C:\Users\lweber\source\repos\ProjectedRaisesInteractive\ProjectedRaisesInteractive\obj\Debug\netcoreapp3.1\ProjectedRaisesInteractive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lweber\source\repos\ProjectedRaisesInteractive\ProjectedRaisesInteractive\obj\Debug\netcoreapp3.1\ProjectedRaisesInteractive.AssemblyInfoInputs.cache
+C:\Users\lweber\source\repos\ProjectedRaisesInteractive\ProjectedRaisesInteractive\obj\Debug\netcoreapp3.1\ProjectedRaisesInteractive.AssemblyInfo.cs
+C:\Users\lweber\source\repos\ProjectedRaisesInteractive\ProjectedRaisesInteractive\obj\Debug\netcoreapp3.1\ProjectedRaisesInteractive.csproj.CoreCompileInputs.cache
+C:\Users\lweber\source\repos\ProjectedRaisesInteractive\ProjectedRaisesInteractive\obj\Debug\netcoreapp3.1\ProjectedRaisesInteractive.dll
+C:\Users\lweber\source\repos\ProjectedRaisesInteractive\ProjectedRaisesInteractive\obj\Debug\netcoreapp3.1\ProjectedRaisesInteractive.pdb
+C:\Users\lweber\source\repos\ProjectedRaisesInteractive\ProjectedRaisesInteractive\obj\Debug\netcoreapp3.1\ProjectedRaisesInteractive.genruntimeconfig.cache

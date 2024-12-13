@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveEstimator", "MoveEstimator\MoveEstimator.csproj", "{A2DF65FC-646A-4403-A32D-170296AC61FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2DF65FC-646A-4403-A32D-170296AC61FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2DF65FC-646A-4403-A32D-170296AC61FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2DF65FC-646A-4403-A32D-170296AC61FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2DF65FC-646A-4403-A32D-170296AC61FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2325FCC1-1CF2-4E64-B1AB-B7ABB459D0B7}
+	EndGlobalSection
+EndGlobal

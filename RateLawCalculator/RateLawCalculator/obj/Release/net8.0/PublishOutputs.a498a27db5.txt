@@ -1,5 +1,0 @@
-C:\Users\lweber\Desktop\Projects\RateLawCalculator.exe
-C:\Users\lweber\Desktop\Projects\RateLawCalculator.dll
-C:\Users\lweber\Desktop\Projects\RateLawCalculator.deps.json
-C:\Users\lweber\Desktop\Projects\RateLawCalculator.runtimeconfig.json
-C:\Users\lweber\Desktop\Projects\RateLawCalculator.pdb
