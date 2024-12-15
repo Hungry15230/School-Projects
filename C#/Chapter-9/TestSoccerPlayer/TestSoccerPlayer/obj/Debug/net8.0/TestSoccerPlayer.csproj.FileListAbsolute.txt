@@ -1,0 +1,15 @@
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-9\TestSoccerPlayer\TestSoccerPlayer\bin\Debug\net8.0\TestSoccerPlayer.exe
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-9\TestSoccerPlayer\TestSoccerPlayer\bin\Debug\net8.0\TestSoccerPlayer.deps.json
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-9\TestSoccerPlayer\TestSoccerPlayer\bin\Debug\net8.0\TestSoccerPlayer.runtimeconfig.json
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-9\TestSoccerPlayer\TestSoccerPlayer\bin\Debug\net8.0\TestSoccerPlayer.dll
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-9\TestSoccerPlayer\TestSoccerPlayer\bin\Debug\net8.0\TestSoccerPlayer.pdb
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-9\TestSoccerPlayer\TestSoccerPlayer\obj\Debug\net8.0\TestSoccerPlayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-9\TestSoccerPlayer\TestSoccerPlayer\obj\Debug\net8.0\TestSoccerPlayer.AssemblyInfoInputs.cache
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-9\TestSoccerPlayer\TestSoccerPlayer\obj\Debug\net8.0\TestSoccerPlayer.AssemblyInfo.cs
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-9\TestSoccerPlayer\TestSoccerPlayer\obj\Debug\net8.0\TestSoccerPlayer.csproj.CoreCompileInputs.cache
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-9\TestSoccerPlayer\TestSoccerPlayer\obj\Debug\net8.0\TestSoccerPlayer.sourcelink.json
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-9\TestSoccerPlayer\TestSoccerPlayer\obj\Debug\net8.0\TestSoccerPlayer.dll
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-9\TestSoccerPlayer\TestSoccerPlayer\obj\Debug\net8.0\refint\TestSoccerPlayer.dll
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-9\TestSoccerPlayer\TestSoccerPlayer\obj\Debug\net8.0\TestSoccerPlayer.pdb
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-9\TestSoccerPlayer\TestSoccerPlayer\obj\Debug\net8.0\TestSoccerPlayer.genruntimeconfig.cache
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-9\TestSoccerPlayer\TestSoccerPlayer\obj\Debug\net8.0\ref\TestSoccerPlayer.dll
