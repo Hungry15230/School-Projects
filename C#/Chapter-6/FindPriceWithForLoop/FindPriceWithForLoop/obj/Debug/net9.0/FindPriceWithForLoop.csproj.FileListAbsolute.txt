@@ -1,0 +1,15 @@
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\bin\Debug\net9.0\FindPriceWithForLoop.exe
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\bin\Debug\net9.0\FindPriceWithForLoop.deps.json
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\bin\Debug\net9.0\FindPriceWithForLoop.runtimeconfig.json
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\bin\Debug\net9.0\FindPriceWithForLoop.dll
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\bin\Debug\net9.0\FindPriceWithForLoop.pdb
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\obj\Debug\net9.0\FindPriceWithForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\obj\Debug\net9.0\FindPriceWithForLoop.AssemblyInfoInputs.cache
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\obj\Debug\net9.0\FindPriceWithForLoop.AssemblyInfo.cs
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\obj\Debug\net9.0\FindPriceWithForLoop.csproj.CoreCompileInputs.cache
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\obj\Debug\net9.0\FindPriceWithForLoop.sourcelink.json
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\obj\Debug\net9.0\FindPriceWithForLoop.dll
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\obj\Debug\net9.0\refint\FindPriceWithForLoop.dll
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\obj\Debug\net9.0\FindPriceWithForLoop.pdb
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\obj\Debug\net9.0\FindPriceWithForLoop.genruntimeconfig.cache
+C:\Users\hungr\source\repos\School-Projects\C#\Chapter-6\FindPriceWithForLoop\FindPriceWithForLoop\obj\Debug\net9.0\ref\FindPriceWithForLoop.dll
