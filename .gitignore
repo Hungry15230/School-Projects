@@ -2,4 +2,4 @@
 *.vs/
 /.vs
 /.vscode
-*.exe
+C++/builds/
