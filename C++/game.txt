@@ -1,0 +1,431 @@
+import time, random
+""":
+Physical statistics:
+ -Strength - Damage
+ -Constitution - Health
+ -Dexterity - Agility
+Mental statistics:
+ -Intelligence - XP Gain
+ -Wisdom - Magic
+ -Charisma - Lower NPC Prices
+"""
+
+class Quest:
+    def __init__(self, quest_type, quantity_req, quest_objective, reward_amt, reward_type):
+        self.quest_type = quest_type
+        self.quest_objective = quest_objective
+        self.quantity_req = quantity_req
+        self.quantity_current = 0
+        self.reward_type = reward_type
+        self.reward_amt = reward_amt
+    
+    def quest_complete(self):
+        if reward_type == "xp": player.XP += reward_amt
+        if reward_type == "silver": player.MONEY += reward_amt
+        print(f"Quest Completed! +{reward_amt} {reward_type}")
+
+class Player:
+    
+    def __init__(self, STR, CON, DEX, INT, WIS, CHA, CD, CC, HP, ARM, DMG, ORIGIN, NAME, MONEY, LVL, XP):
+        self.STR = STR
+        self.CON = CON
+        self.DEX = DEX
+        self.INT = INT
+        self.WIS = WIS
+        self.CHA = CHA
+        
+        # In percents: current base 110% damage
+        self.CD = CD
+        # In percents: current base 1% chance
+        self.CC = CC
+        
+        self.HP     = HP
+        self.ARM    = ARM
+        self.DMG    = DMG
+        self.ORIGIN = ORIGIN
+        self.NAME   = NAME
+        self.MONEY  = MONEY
+        self.LVL = LVL
+        self.XP = XP
+        
+    def stats(self):
+        print(f"Player Stats:")
+        print(f"Strength: {self.STR}")
+        print(f"Constitution: {self.CON}")
+        print(f"Dexterity: {self.DEX}")
+        print(f"Intelligence: {self.INT}")
+        print(f"Wisdom: {self.WIS}")
+        print(f"Charisma: {self.CHA}")
+        print(f"Crit Damage: {round(self.CD*100)}%")
+        print(f"Crit Chance: {self.CC/100}%")
+        print(f"Health: {self.HP}")
+        print(f"Armour: {self.ARM}")
+        print(f"Damage: {self.DMG}")
+        print(f"Origin: {self.ORIGIN}")
+
+class Enemy:
+    def __init__(self, CD, CC, HP, ARM, DMG):
+        self.CD = CD
+        self.CC = CC
+        self.HP = HP
+        self.ARM = ARM
+        self.DMG = DMG
+        
+    def stats(self):
+        print("Enemy Stats:")
+        print(f"Crit Damage: {round(self.CD*100)}%")
+        print(f"Crit Chance: {self.CC/100}%")
+        print(f"Health: {self.HP}")
+        print(f"Armour: {self.ARM}")
+        print(f"Damage: {self.DMG}")
+
+def get_num(minimum, maximum):
+    while True:
+        try:
+            x = input()
+            if x == "help": return x
+            x = int(x)
+            if x >= minimum and x <= maximum: return x
+            else: raise ValueError
+        except ValueError:
+            print("Invalid")
+
+def get_name():
+    while True:
+        name = input("What would you like your name to be? ")
+        confirmation = None
+        while True:
+            confirmation = input("Are you sure about this? (y/n) ").lower()
+            if confirmation == "n" or confirmation == "y": break
+            else: print("Invalid")
+        if confirmation == "n": continue
+        if confirmation == "y": player.NAME = name
+        print("\033c", end="")
+        break
+
+def spend_points():
+    available_points = 20
+    while available_points:
+        
+        print(f"Points to spend: {available_points}")
+        print("Where would you like to allocate points? Type 'help' to learn more about the stats.")
+        for index, stat in enumerate(stat_list): print(f"{index+1}. {stat}")
+        
+        point_destination = get_num(1, 6)
+        
+        match point_destination:
+            case 1:
+                point_destination = stat_list[point_destination-1]
+                print(f"How many points would you like to assign to {point_destination}?")
+                points_to_assign = get_num(0, available_points)
+                
+                if points_to_assign <= available_points:
+                    print("\033c", end="")
+                    print(f"You assigned {points_to_assign} points to {point_destination}")
+                    available_points -= points_to_assign
+                    player.STR+=points_to_assign
+                else: print("You don't have enough points.")
+                
+            case 2: 
+                print(f"How many points would you like to assign to {stat_list[point_destination-1]}?")
+                points_to_assign = get_num(0, available_points)
+                
+                if points_to_assign <= available_points:
+                    print("\033c", end="")
+                    print(f"You assigned {points_to_assign} points to {stat_list[point_destination-1]}")
+                    available_points -= points_to_assign
+                    player.CON+=points_to_assign
+                else: print("You don't have enough points.")
+                
+            case 3:
+                print(f"How many points would you like to assign to {stat_list[point_destination-1]}?")
+                points_to_assign = get_num(0, available_points)
+                
+                if points_to_assign <= available_points:
+                    print("\033c", end="")
+                    print(f"You assigned {points_to_assign} points to {stat_list[point_destination-1]}")
+                    available_points -= points_to_assign
+                    player.DEX+=points_to_assign
+                else: print("You don't have enough points.")
+                
+            case 4: 
+                print(f"How many points would you like to assign to {stat_list[point_destination-1]}?")
+                points_to_assign = get_num(0, available_points)
+                
+                if points_to_assign <= available_points:
+                    print("\033c", end="")
+                    print(f"You assigned {points_to_assign} points to {stat_list[point_destination-1]}")
+                    available_points -= points_to_assign
+                    player.INT+=points_to_assign
+                else: print("You don't have enough points.")
+                
+            case 5: 
+                print(f"How many points would you like to assign to {stat_list[point_destination-1]}?")
+                points_to_assign = get_num(0, available_points)
+                
+                if points_to_assign <= available_points:
+                    print("\033c", end="")
+                    print(f"You assigned {points_to_assign} points to {stat_list[point_destination-1]}")
+                    available_points -= points_to_assign
+                    player.WIS+=points_to_assign
+                else: print("You don't have enough points.")
+                
+            case 6: 
+                print(f"How many points would you like to assign to {stat_list[point_destination-1]}?")
+                points_to_assign = get_num(0, available_points)
+                
+                if points_to_assign <= available_points:
+                    print("\033c", end="")
+                    print(f"You assigned {points_to_assign} points to {stat_list[point_destination-1]}")
+                    available_points -= points_to_assign
+                    player.CHA+=points_to_assign
+                else: print("You don't have enough points.")
+                
+            case "help":
+                print("Strength: Affects base physical damage")
+                print("Constitution: Affects total health")
+                print("Dexterity: Affects base speed, who attacks first")
+                print("Intelligence: Affects XP gain")
+                print("Wisdom: Affects base magic damage")
+                print("Charisma: Affects NPC prices")
+
+def choose_origin():
+    while not player.ORIGIN:
+        print("Last thing, you must choose your origin. Type 'help' to learn more about the origins.")
+        for index, origin in enumerate(origin_list): print(f"{index+1}. {origin}")
+        origin_number = get_num(1, 6)
+        match origin_number:
+            case 1:
+                player.ORIGIN = "Warrior"
+                player.STR += 3
+                player.INT -= 2
+                player.DEX -= 2
+            case 2:
+                player.ORIGIN = "Rouge"
+                player.DEX += 2
+                player.CHA += 2
+                player.CON -= 1
+            case 3:
+                player.ORIGIN = "Scholar"
+                player.INT += 2
+                player.WIS += 1
+                player.STR -= 1
+            case 4:
+                player.ORIGIN = "Wanderer"
+                player.CON += 2
+                player.DEX += 1
+                player.CHA -= 2
+            case 5:
+                player.ORIGIN = "Hermit"
+                player.WIS += 2
+                player.INT += 1
+                player.CHA -= 2
+            case 6:
+                player.ORIGIN = "Prodigy"
+                player.INT += 3
+                player.WIS += 2
+                player.CON -= 1
+            case "help":
+                print("Warrior: STR + 3; INT - 2; DEX - 2")
+                print("Rouge: DEX + 2; CHA + 2; CON - 1")
+                print("Scholar: INT + 2; WIS + 1; STR - 1")
+                print("Wanderer:   CON + 2; DEX + 1; CHA - 2")
+                print("Hermit: WIS + 2; INT + 1; CHA - 2")
+                print("Prodigy:  INT + 3; WIS + 2; CON - 1")
+            case _:
+                print("Choose something at least.")
+    print(f"You chose {player.ORIGIN}")
+
+def print_str(str_to_print):
+    speed = (0.025)
+    str_printing = ""
+    num = 0
+    cutoff = 100
+    for x in str_to_print:
+        num +=1
+        if num/cutoff == 1:
+            num = 0
+            str_printing += "\n"
+        str_printing += x
+        print(str_printing)
+        time.sleep(speed)
+        print("\033c", end="")
+    print(str_printing)
+
+def gain_money(amount):
+    player.MONEY += amount
+    print(f"+{amount} Silver")
+
+def darkheart_menu():
+    while True:
+        print("\033c", end="")
+        print("You are in town, what do you do?")
+        for index, location in enumerate(town_locations): print(f"{index+1}. {location}")
+        selection = get_num(1, 6)
+        match selection:
+            case 1:
+                print("\033c", end="")
+                print("You entered the Shop")
+                while True:
+                    for index, option in enumerate(shop_options): print(f"{index+1}. {option}")
+                    player_input = get_num(1, 3)
+                    match player_input:
+                        case 1:
+                            print("Item list goes here.")
+                        case 2:
+                            print("Your inv goes here.")
+                        case 3:
+                            print("You left the Shop.")
+                            time.sleep(0.5)
+                            print("\033c", end="")
+                            break
+            case 2:
+                print("\033c", end="")
+                print("You walk into the Forge")
+                while True:
+                    for index, option in enumerate(forge_options): print(f"{index+1}. {option}")
+                    player_input = get_num(1, 4)
+                    match player_input:
+                        case 1:
+                            print("Forgable items here.")
+                        case 2:
+                            print("Upgradable items here.")
+                        case 3:
+                            print("Equipable items here.")
+                        case 4:
+                            print("You left the Forge.")
+                            time.sleep(0.5)
+                            print("\033c", end="")
+                            break
+            case 3:
+                print("\033c", end="")
+                print("The Tavernkeep says hello")
+                while True:
+                    for index, option in enumerate(tavern_options): print(f"{index+1}. {option}")
+                    player_input = get_num(1, 4)
+                    match player_input:
+                        case 1:
+                            print("Drink options here.")
+                        case 2:
+                            print("NPC options here.")
+                        case 3:
+                            print("Bet options here.")
+                        case 4:
+                            print("You left the Tavern.")
+                            time.sleep(0.5)
+                            print("\033c", end="")
+                            break
+            case 4:
+                print("\033c", end="")
+                print("You look through your Storage")
+                while True:
+                    for index, option in enumerate(storage_options): print(f"{index+1}. {option}")
+                    player_input = get_num(1, 4)
+                    match player_input:
+                        case 1:
+                            print("Your inv here.")
+                        case 2:
+                            print("Storage inv here.")
+                        case 3:
+                            print("Upgrade options here.")
+                        case 4:
+                            print("You left your Storage.")
+                            time.sleep(0.5)
+                            print("\033c", end="")
+                            break
+            case 5:
+                print("\033c", end="")
+                print("You admire the grandeur of the Town Hall")
+                while True:
+                    for index, option in enumerate(town_hall_options): print(f"{index+1}. {option}")
+                    player_input = get_num(1, 4)
+                    match player_input:
+                        case 1:
+                            print("Upgrade options here")
+                        case 2:
+                            
+                            
+                            
+                        case 3:
+                            print("Help here.")
+                        case 4:
+                            print("You left the Town Hall.")
+                            time.sleep(0.5)
+                            print("\033c", end="")
+                            break
+            case 6:
+                print("\033c", end="")
+                print("Goodbye")
+                break
+
+def pass_the_day():
+    global DAY, available_quests, active_quests, max_quests
+    print("The sun rises and a new day begins.")
+    DAY += 1
+    
+    quest_conversions = {
+        "Rats" : 1,
+        "Wraiths" : 1.2
+    }
+    available_quests = []
+    for x in range(max_quests):
+        quest_type = random.choice(["Kill"])
+        quantity_req = random.randint(5, 30)
+        quest_objective = random.choice(["Rats", "Wraiths"])
+        reward_amt = quantity_req * quest_conversions[quest_objective]
+        reward_type = random.choice(["silver", "xp"])
+        # quest_type, quantity_req, quest_objective, reward_amt, reward_type
+        quest = Quest(quest_type, quantity_req, quest_objective, reward_amt, reward_type)
+        available_quests.append(quest)
+
+DAY = 0
+max_quests = 4
+# All active quests at a given moment.
+active_quests = []
+# All possible quest at a given moment.
+available_quests = []
+stat_list = ["Strength", "Constitution", "Dexterity", "Intelligence", "Wisdom", "Charisma"]
+origin_list = ["Warrior", "Rouge", "Scholar", "Wanderer", "Hermit", "Prodigy"]
+town_locations = ["Shop", "Blacksmith", "Tavern", "Storage", "Town Hall", "Leave"]
+shop_options = ["Buy Items", "Sell Items", "Leave"]
+forge_options = ["Forge Equipment", "Upgrade Equipment", "Manage Equipment", "Leave"]
+tavern_options = ["Get a drink", "Talk with locals", "Get a bed", "Leave"]
+storage_options = ["Store Items", "Retrieve Items", "Upgrade Storage", "Leave"]
+town_hall_options = ["Upgrade Town Hall", "Quests", "Game Help", "Leave"]
+# Stats: str, con, dex, int, wis, cha, cd, cc, hp, arm, dmg, origin, name, money, lvl, xp
+player = Player(1, 1, 1, 1, 1, 1, 1.10, 1, 100, 0, 1, None, None, 0, 1, 0)
+# cd, cc, hp, def, dmg
+enemy = Enemy(1.10, 1, 100, 0, 1)
+'''
+get_name()
+spend_points()
+choose_origin()
+
+print("\033c", end="")
+player.stats()
+enemy.stats()
+time.sleep(5)
+print("\033c", end="")
+print("You awake to find your self in the town of Darkheart, a bustling little village at the base of a mountain.")
+time.sleep(3)
+print("The people of this village are wary of you, they don't get very many travelers here.")
+time.sleep(2.5)
+print("Most people would be out of their mind to come to such a cursed place, but that's why you're here, to rid them of this evil power. Good luck!")
+time.sleep(4)
+print("A mysterious man cloaked in explorer's garb gives you 100 silver pieces.")
+time.sleep(2)
+print("You try to refuse him but he quickly walks away, unfourtunately you didn't catch his face or his name.")
+'''
+gain_money(100)
+pass_the_day()
+time.sleep(2)
+print("\033c", end="")
+darkheart_menu()
+print("You start down the road to the Greyflow Woods.")
+time.sleep(1.5)
+print("It is said that long ago this was a kingdom to a once Noble family, the Silverflames.")
+time.sleep(3)
+print("Since their corruption however it has fallen into disrepair and you may still find ruins about the place.")
+time.sleep(3.5)
+print("Be wary of the things that also live here, you're not alone.")
+time.sleep(2)
